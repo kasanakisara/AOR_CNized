@@ -1,0 +1,153 @@
+﻿l_english:
+
+ PRODUCTION_MATERIALS_FOOD:0 "粮食"
+ food_desc:0 "充足的粮食后勤，是军队战斗力的保证。"
+ PRODUCTION_MATERIALS_COAL:0 "煤炭"
+ coal_desc:0 "煤炭，俗称黑金，充足的供能才能维持军工厂的运作。"
+ PRODUCTION_MATERIALS_WOOD:0 "木材"
+ wood_desc:0 "木材是各种民用工程的必备材料，只有拥有足够的木材，才能顺利地展开施工。"
+ 
+ local_logicist_center:0 "战略补给基地"
+ local_logicist_center_plural:0"战略补给基地"
+ local_logicist_center_desc:0 "提前规划并修建战略补给基地可以提升当地的补给状况，增加该地区能够支持的部队数量，减小该地区对首都物资的过度依赖，通常修建在核心防御区，每修建一个，当地补给上限提高2倍，最高可提高10倍。\n§g（建造完毕后，补给效果会在一周内生效）§!"
+ supply_node:0 "物资分发中心"
+ supply_node_plural:0 "物资分发中心"
+ supply_node_desc:0 "物资分发中心修建在铁道沿线上，可以将首都向外输送的补给转发给周边的部队。"
+ 
+ state_local_logic_dynamic_modifier:0"战略级物资中心对当地补给的改善效果"
+ 
+ state_exp_resource_mod:0"资源开发"
+ 
+ 
+ 
+ food_maker:0 "粮食产区"
+ food_maker_desc:0 "修建在产粮区可以提升粮食产量，修建在不产粮食的地区则无效果。\n§g（建造完毕后，资源开发效果会在一周内生效）§!"
+ coal_maker:0 "深井煤矿"
+ coal_maker_desc:0 "修建在产煤区可以提升煤炭产量，修建在不产煤炭的地区则无效果。\n§g（建造完毕后，资源开发效果会在一周内生效）§!"
+ wood_maker:0 "伐木区"
+ wood_maker_desc:0 "修建在林业区可以提升木材产量，修建在不产木材的地区则无效果。\n§g（建造完毕后，资源开发效果会在一周内生效）§!"
+ 
+ money_maker:0 "金融中心"
+ money_maker_desc:0 "一种可以为国家经济总量带来促进的建筑"
+ 
+ 
+ food_maker_plural:0 "粮食产区"
+ coal_maker_plural:0 "深井煤矿"
+ wood_maker_plural:0 "伐木区"
+ 
+ money_maker_plural:0 "金融中心"
+ 
+ 
+ 
+ MP_centre:0 "宪兵警备区"
+ MP_centre_plural:0"宪兵警备区"
+ MP_centre_desc:0 "宪兵警备区可以提高地区防御外国间谍的能力，修建在占领区还能降低当地的抵抗强度。\n§g（建造完毕后，警备效果会在一周内生效）§!"
+ 
+ state_local_MP_modifier:0"宪兵警备区的治安效果"
+ 
+ 
+ food_storage:0 "粮食仓库"
+ food_storage_plural:0"粮食仓库"
+ food_storage_desc:0 " -增加§H800§!单位的粮食库存上限\n -提供§H8§!单位的粮食储备输出能力"
+ 
+ industrial_complex_desc:0 "此建筑可为所属地区提供生产民用商品或建造新建筑的工业能力，或可因需转换为军用工厂。\n§g------------§!\n -增加§H800§!单位的木材库存上限\n -提供§H8§!单位的木材储备输出能力"
+ 
+ arms_factory_desc:0 "此建筑可为所属地区提供生产军事装备的工业能力，或可因需转换为民用工厂。\n§g------------§!\n -增加§H800§!单位的煤炭库存上限\n -提供§H8§!单位的煤炭储备输出能力"
+ dockyard_desc:0 "此建筑可为所属地区提供建造新舰船的工业能力。\n§g------------§!\n -增加§H800§!单位的煤炭库存上限\n -提供§H8§!单位的煤炭储备输出能力"
+ 
+ 
+ country_food_cost_mod:0"§Y用于供给现役军队§!\n§g------------\n明细见征召面板§!\n当前军队需求"
+ country_wood_cost_mod:0"§Y用于供给可用的民用工厂§!\n§g------------\n明细见征召面板§!\n当前民用工厂的需求"
+ country_coal_cost_mod:0"§Y用于供给军用工厂§!\n§g------------\n明细见征召面板§!\n当前军用工厂的需求"
+ 
+ food_total_var_not_zore:0"[?total_food|G0]"
+ food_import_var_not_zore:0"[?resource_imported@food|G0]"
+ food_export_var_not_zore:0"§R-§![?resource_exported@food|R0]"
+ food_cost_var_not_zore:0"§R-§![?food_cost|R0]"
+ 
+ 
+ wood_total_var_not_zore:0"[?total_wood|G0]"
+ wood_import_var_not_zore:0"[?resource_imported@wood|G0]"
+ wood_export_var_not_zore:0"§R-§![?resource_exported@wood|R0]"
+ wood_cost_var_not_zore:0"§R-§![?wood_cost|R0]"
+ 
+ coal_total_var_not_zore:0"[?total_coal|G0]"
+ coal_import_var_not_zore:0"[?resource_imported@coal|G0]"
+ coal_export_var_not_zore:0"§R-§![?resource_exported@coal|R0]"
+ coal_cost_var_not_zore:0"§R-§![?coal_cost|R0]"
+ 
+ total_num_food_text:0"我们当前共拥有[?total_food|Y0]单位§Y粮食§!\n\n -[?now_food|Y0]单位§Y粮食§!为即时征用\n -[?money_food_mod|Y0]单位§Y粮食§!来自于专项采购\n -[?food_storage_use|Y0]单位§Y粮食§!来自于战略储备"
+ total_num_food_desc:0"充足的粮食后勤，是军队战斗力的保证。"
+ import_num_food_text:0"我们当前进口了[?resource_imported@food|Y0]单位§Y粮食§!"
+ import_num_food_desc:0"充足的粮食后勤，是军队战斗力的保证。"
+ export_num_food_text:0"我们当前正在出口[?resource_exported@food|Y0]单位§Y粮食§!"
+ export_num_food_desc:0"充足的粮食后勤，是军队战斗力的保证。"
+ need_num_food_text:0"当前现役的军队需要[?food_cost|Y0]单位的§Y粮食§!供应"
+ need_num_food_desc:0"§g 明细见征召面板§!"
+ 
+ total_num_wood_text:0"我们当前共拥有[?total_wood|Y0]单位§Y木材§!\n\n -[?now_wood|Y0]单位§Y木材§!为即时征用\n -[?money_wood_mod|Y0]单位§Y木材§!来自于专项采购\n -[?wood_storage_use|Y0]单位§Y木材§!来自于战略储备"
+ total_num_wood_desc:0"木材是各种民用工程的必备材料，只有拥有足够的木材，才能顺利地展开施工。"
+ import_num_wood_text:0"我们当前进口了[?resource_imported@wood|Y0]单位§Y木材§!"
+ import_num_wood_desc:0"木材是各种民用工程的必备材料，只有拥有足够的木材，才能顺利地展开施工。"
+ export_num_wood_text:0"我们当前正在出口[?resource_exported@wood|Y0]单位§Y木材§!"
+ export_num_wood_desc:0"木材是各种民用工程的必备材料，只有拥有足够的木材，才能顺利地展开施工。"
+ need_num_wood_text:0"当前民用工厂需要使用[?wood_cost|Y0]单位的§Y木材§!才能正常开工"
+ need_num_wood_desc:0"§g 明细见建造面板§!"
+ 
+ total_num_coal_text:0"我们当前共拥有[?total_coal|Y0]单位§Y煤炭§!\n\n -[?now_coal|Y0]单位§Y煤炭§!为即时征用\n -[?money_coal_mod|Y0]单位§Y煤炭§!来自于专项采购\n -[?coal_storage_use|Y0]单位§Y煤炭§!来自于战略储备"
+ total_num_coal_desc:0"煤炭，俗称黑金，充足的供能才能维持军工厂的运作。"
+ import_num_coal_text:0"我们当前进口了[?resource_imported@coal|Y0]单位§Y煤炭§!"
+ import_num_coal_desc:0"煤炭，俗称黑金，充足的供能才能维持军工厂的运作。"
+ export_num_coal_text:0"我们当前正在出口[?resource_exported@coal|Y0]单位§Y煤炭§!"
+ export_num_coal_desc:0"煤炭，俗称黑金，充足的供能才能维持军工厂的运作。"
+ need_num_coal_text:0"当前军事工厂需要[?coal_cost|Y0]单位的§Y煤炭§!用以发电"
+ need_num_coal_desc:0"§g 明细见生产面板§!"
+ 
+ 
+ 
+ 
+ country_food_statics_pos_mod:0"粮食盈余的增益"
+ country_food_statics_nega_mod:0"粮食不足的影响"
+ country_wood_statics_pos_mod:0"木材盈余的增益"
+ country_wood_statics_nega_mod:0"木材不足的影响"
+ country_coal_statics_pos_mod:0"煤炭盈余的增益"
+ country_coal_statics_nega_mod:0"煤炭不足的影响"
+ 
+ CROP:0"[food_statics_title]"
+ WOOD:0"[wood_statics_title]"
+ COAL:0"[coal_statics_title]"
+ 
+ crop:0"[food_statics_desc]"
+ wood:0"[wood_statics_desc]"
+ coal:0"[coal_statics_desc]"
+ 
+ food_statics_good_title:0"当前现役部队的§Y粮食§!供应状况§G（盈余）§!\n§g------------§!\n-目前现役部队人数：[?soilder]K名士兵\n（每千人需要[?food_cost_coeff|Y]单位的§Y粮食§!）\n-总共需要[?food_cost|Y0]单位的§Y粮食§!\n-当前的§Y粮食§!供应：[?domin_food|H0]\n-盈余量为：[?resource@food|G0]\n-足额率为：§7[?food_statics_gui_var|%0]（上限为200%）§!\n§g（若需求为0，则足额率默认为150%）§!"
+ food_statics_normal_title:0"当前现役部队的§Y粮食§!供应状况§Y（平衡）§!\n§g------------§!\n-目前现役部队人数：[?soilder]K名士兵\n（每千人需要[?food_cost_coeff|Y]单位的§Y粮食§!）\n-总共需要[?food_cost|Y0]单位的§Y粮食§!\n-当前的§Y粮食§!基本§4足额§!"
+ food_statics_bad_title:0"当前现役部队的§Y粮食§!供应状况§R（不足）§!\n§g------------§!\n-目前现役部队人数：[?soilder]K名士兵\n（每千人需要[?food_cost_coeff|Y]单位的§Y粮食§!）\n-总共需要[?food_cost|Y0]单位的§Y粮食§!\n-当前的§Y粮食§!供应：[?domin_food|H0]\n-赤字量为：[?resource@food|R0]\n-足额率为：§9[?food_statics_gui_var|%0]（下限为0%）§!"
+ 
+ wood_statics_good_title:0"当前民用工厂的§Y木材§!供应状况§G（盈余）§!\n§g------------§!\n-目前可用的民用工厂：[?num_of_civilian_factories_available_for_projects|0]个\n（每个民用工厂需要[?wood_cost_coeff|Y]单位的§Y木材§!）\n-总共需要[?wood_cost|Y0]单位的§Y木材§!\n-当前的§Y木材§!供应：[?domin_wood|H0]\n-盈余量为：[?resource@wood|G0]\n-足额率为：§7[?wood_statics_gui_var|%0]（上限为200%）§!\n§g（若需求为0，则足额率默认为150%）§!"
+ wood_statics_normal_title:0"当前民用工厂的§Y木材§!供应状况§Y（平衡）§!\n§g------------§!\n-目前可用的民用工厂：[?num_of_civilian_factories_available_for_projects|0]个\n（每个民用工厂需要[?wood_cost_coeff|Y]单位的§Y木材§!）\n-总共需要[?wood_cost|Y0]单位的§Y木材§!\n-当前的§Y木材§!基本§4足额§!"
+ wood_statics_bad_title:0"当前民用工厂的§Y木材§!供应状况§R（不足）§!\n§g------------§!\n-目前可用的民用工厂：[?num_of_civilian_factories_available_for_projects|0]个\n（每个民用工厂需要[?wood_cost_coeff|Y]单位的§Y木材§!）\n-总共需要[?wood_cost|Y0]单位的§Y木材§!\n-当前的§Y木材§!供应：[?domin_wood|H0]\n-赤字量为：[?resource@wood|R0]\n-足额率为：§9[?wood_statics_gui_var|%0]（下限为0%）§!"
+ 
+ coal_statics_good_title:0"当前军事工厂的§Y煤炭§!供应状况§G（盈余）§!\n§g------------§!\n-目前军事工厂数量：[?mil_fac|0]个\n（每个军事工厂需要[?coal_cost_coeff|Y]单位的§Y煤炭§!）\n-总共需要[?coal_cost|Y0]单位的§Y煤炭§!\n-当前的§Y煤炭§!供应：[?domin_coal|H0]\n-盈余量为：[?resource@coal|G0]\n-足额率为：§7[?coal_statics_gui_var|%0]（上限为200%）§!\n§g（若需求为0，则足额率默认为150%）§!"
+ coal_statics_normal_title:0"当前军事工厂的§Y煤炭§!供应状况§Y（平衡）§!\n§g------------§!\n-目前军事工厂数量：[?mil_fac|0]个\n（每个军事工厂需要[?coal_cost_coeff|Y]单位的§Y煤炭§!）\n-总共需要[?coal_cost|Y0]单位的§Y煤炭§!\n-当前的§Y煤炭§!基本§4足额§!"
+ coal_statics_bad_title:0"当前军事工厂的§Y煤炭§!供应状况§R（不足）§!\n§g------------§!\n-目前军事工厂数量：[?mil_fac|0]个\n（每个军事工厂需要[?coal_cost_coeff|Y]单位的§Y煤炭§!）\n-总共需要[?coal_cost|Y0]单位的§Y煤炭§!\n-当前的§Y煤炭§!供应：[?domin_coal|H0]\n-赤字量为：[?resource@coal|R0]\n-足额率为：§9[?coal_statics_gui_var|%0]（下限为0%）§!"
+ 
+ food_statics_good_desc:0"盈余的§Y粮食§!调拨给其他方面带来的改善：\n-适役人口：§G+§![?food_statics_effect_1|G%]\n-月度人力：§G+§![?food_statics_effect_2|G%]\n-训练时间：[?food_statics_effect_3|G%]\n-意识形态变化抵制力度：§G+§![?food_statics_effect_4|G%]"
+ food_statics_normal_desc:0"收支基本平衡，一切正常。"
+ food_statics_bad_desc:0"由于粮食不足造成以下影响：\n-陆军组织度：[?food_statics_effect_5|R%]\n-陆军组织度恢复：[?food_statics_effect_5|R%]\n-有经验的士兵的损失：§R+§![?food_statics_effect_6|R%]"
+ 
+ wood_statics_good_desc:0"盈余的§Y木材§!调拨给其他方面带来的改善：\n-补给消耗：[?wood_statics_effect_1|G%]\n-陆军损耗：[?wood_statics_effect_2|G%]\n-可靠性：§G+§![?wood_statics_effect_3|G%]"
+ wood_statics_normal_desc:0"收支基本平衡，一切正常。"
+ wood_statics_bad_desc:0"由于木材不足造成以下影响：\n-建造速度：[?wood_statics_effect_4|R%]\n-免费维修：[?wood_statics_effect_4|R%]"
+ 
+ coal_statics_good_desc:0"盈余的§Y煤炭§!调拨给其他方面带来的改善：\n-陆军师速度：§G+§![?coal_statics_effect_1|G%]\n-物资分发中心补给范围：§G+§![?coal_statics_effect_2|G%]"
+ coal_statics_normal_desc:0"收支基本平衡，一切正常。"
+ coal_statics_bad_desc:0"由于煤炭不足造成以下影响：\n-海军船坞产出：[?coal_statics_effect_3|R%]\n-陆军工厂产出：[?coal_statics_effect_3|R%]\n-生产效率上限：[?coal_statics_effect_4|R%]\n-生产效率增长：[?coal_statics_effect_5|R%]"
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,111 @@
+﻿l_english:
+
+ PSA_mechgun_equipment_0_short:0"Browning班组机枪"
+ PSA_mechgun_equipment_1_short:0"m1919a6重机枪"
+ PSA_mechgun_equipment_2_short:0"轻量化m1919重机枪"
+ PSA_mechgun_equipment_3_short:0"M2重机枪"
+ 
+ PSA_mortar_equipment_0_short:0"美制stokes迫击炮"
+ PSA_mortar_equipment_1_short:0"M2 60mm迫击炮"
+ PSA_mortar_equipment_2_short:0"M1迫击炮"
+ PSA_mortar_equipment_3_short:0"M2 4.2英寸迫击炮"
+ 
+ PSA_heavy_artillery_equipment_0_short:0"8.0英寸要塞火炮"
+ PSA_heavy_artillery_equipment_1_short:0"M1 240mm重型火炮"
+ PSA_heavy_artillery_equipment_2_short:0"Tom-C 重型火炮"
+ PSA_heavy_artillery_equipment_3_short:0"Tom-E 重型火炮"
+ 
+ PSA_infantry_equipment_0_short:0 "m1903春田步枪"
+ PSA_infantry_equipment_1_short:0 "m1917步枪"
+ PSA_infantry_equipment_2_short:0 "M1-加兰德步枪"
+ PSA_infantry_equipment_3_short:0 "M1-卡宾枪"
+ PSA_infantry_equipment_x_short:0 "m2-hyde冲锋枪"
+ PSA_infantry_equipment_x_2_short:0 "Thompson m1a1后期型"
+ PSA_infantry_equipment_x_3_short:0 "加州版M3冲锋枪"
+ 
+ CSA_mechgun_equipment_0_short:0"Browning班组机枪"
+ CSA_mechgun_equipment_1_short:0"m1919a6重机枪"
+ CSA_mechgun_equipment_2_short:0"轻量化m1919重机枪"
+ CSA_mechgun_equipment_3_short:0"M2重机枪"
+ 
+ CSA_mortar_equipment_0_short:0"美制stokes迫击炮"
+ CSA_mortar_equipment_1_short:0"M2 60mm迫击炮"
+ CSA_mortar_equipment_2_short:0"M1迫击炮"
+ CSA_mortar_equipment_3_short:0"M2 4.2英寸迫击炮"
+ 
+ CSA_heavy_artillery_equipment_0_short:0"8.0英寸要塞火炮"
+ CSA_heavy_artillery_equipment_1_short:0"M1 240mm重型火炮"
+ CSA_heavy_artillery_equipment_2_short:0"Tom-C 重型火炮"
+ CSA_heavy_artillery_equipment_3_short:0"Tom-E 重型火炮"
+ 
+ CSA_infantry_equipment_0_short:0 "m1903春田步枪"
+ CSA_infantry_equipment_1_short:0 "m1917步枪"
+ CSA_infantry_equipment_2_short:0 "M1-加兰德步枪"
+ CSA_infantry_equipment_3_short:0 "M1-卡宾枪"
+ CSA_infantry_equipment_x_short:0 "m2-hyde冲锋枪"
+ CSA_infantry_equipment_x_2_short:0 "Thompson m1a1后期型"
+ CSA_infantry_equipment_x_3_short:0 "工团制M3冲锋枪"
+ 
+ TEX_mechgun_equipment_0_short:0"Browning班组机枪"
+ TEX_mechgun_equipment_1_short:0"m1919a6重机枪"
+ TEX_mechgun_equipment_2_short:0"轻量化m1919重机枪"
+ TEX_mechgun_equipment_3_short:0"M2重机枪"
+ 
+ TEX_mortar_equipment_0_short:0"美制stokes迫击炮"
+ TEX_mortar_equipment_1_short:0"M2 60mm迫击炮"
+ TEX_mortar_equipment_2_short:0"M1迫击炮"
+ TEX_mortar_equipment_3_short:0"M2 4.2英寸迫击炮"
+ 
+ TEX_heavy_artillery_equipment_0_short:0"8.0英寸要塞火炮"
+ TEX_heavy_artillery_equipment_1_short:0"M1 240mm重型火炮"
+ TEX_heavy_artillery_equipment_2_short:0"Tom-C 重型火炮"
+ TEX_heavy_artillery_equipment_3_short:0"Tom-E 重型火炮"
+ 
+ TEX_infantry_equipment_0_short:0 "m1903春田步枪"
+ TEX_infantry_equipment_1_short:0 "m1917步枪"
+ TEX_infantry_equipment_2_short:0 "M1-加兰德步枪"
+ TEX_infantry_equipment_3_short:0 "M1-卡宾枪"
+ TEX_infantry_equipment_x_short:0 "m2-hyde冲锋枪"
+ TEX_infantry_equipment_x_2_short:0 "Thompson m1a1后期型"
+ TEX_infantry_equipment_x_3_short:0 "南方版M3冲锋枪"
+ 
+ 
+ NEE_heavy_artillery_equipment_0_short:0"8.0英寸要塞火炮"
+ NEE_heavy_artillery_equipment_1_short:0"M1 240mm重型火炮"
+ NEE_heavy_artillery_equipment_2_short:0"155mm GPF重型火炮"
+ NEE_heavy_artillery_equipment_3_short:0"加拿大产GPF7-重型火炮"
+ 
+ 
+ NEE_infantry_equipment_0_short:0 "m1903春田步枪"
+ NEE_infantry_equipment_1_short:0 "m1917步枪"
+ NEE_infantry_equipment_2_short:0 "M1-加兰德步枪"
+ NEE_infantry_equipment_3_short:0 "Sten短版冲锋枪"
+ NEE_infantry_equipment_x_short:0 "CAN.ver Austen冲锋枪"
+ NEE_infantry_equipment_x_2_short:0 "加强型Sten冲锋枪"
+ NEE_infantry_equipment_x_3_short:0 "CAN-Sterling突击步枪"
+ 
+ 
+ NEE_mortar_equipment_0_short:0"美制stokes迫击炮"
+ NEE_mortar_equipment_1_short:0"M2 60mm迫击炮"
+ NEE_mortar_equipment_2_short:0"ML3英寸迫击炮"
+ NEE_mortar_equipment_3_short:0"ML4.2英寸迫击炮"
+ 
+ NEE_mechgun_equipment_0_short:0"Browning班组机枪"
+ NEE_mechgun_equipment_1_short:0"m1919a6重机枪"
+ NEE_mechgun_equipment_2_short:0"布伦-2型通用机枪"
+ NEE_mechgun_equipment_3_short:0"加拿大产VIKS重机枪"
+ 
+ 
+ 
+ tech_special_forces:0 "特种部队"
+ tech_special_forces_desc:0 "非传统的战斗需要专业的培训。我们需要确保我们的部队能够做好准备并够适应严酷的环境。"
+ advanced_special_forces:0 "先进特种部队训练"
+ advanced_special_forces_desc:0 "通过大量的训练，我们可以确保我们的特种部队能够表现地超越常人。"
+ improved_special_forces:1 "扩大特种部队项目"
+ improved_special_forces_desc:1 "特种部队能够执行普通士兵无法完成的任务。我们需要扩大训练计划，让更多的士兵能够合格。"
+ extreme_environment_training:0 "极端环境训练"
+ extreme_environment_training_desc:0 "我们需要能够在最恶劣的环境下进行战斗。通过合适的训练和装备，我们的部队将能够在最极端的条件下进行战斗。"
+ survival_training:0 "生存训练"
+ survival_training_desc:0 "我们的特种部队经常会在敌后作战并且补给短缺。我们需要训练他们忍受恶劣的天气并用有限的物资战斗。"
+ elite_forces:0 "精锐部队"
+ elite_forces_desc:0 "只有万里挑一的人才能加入特种部队。通过训练的士兵将会比其他任何人更强壮，更快，并参与更艰苦的战斗。"

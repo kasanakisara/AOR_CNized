@@ -1,0 +1,16 @@
+﻿l_english:
+  parliament_member_text:0 "[GetParliamentPartyName]"
+  parliament_modify_button_tt:0 "§GCtrl+Click§! to add §Y5§! Seats from [GetParliamentPartyName]\n§GShift+Click§! to subtract §Y5§! Seats from [GetParliamentPartyName]"
+
+  parliament_member_desc:0 "[GetParliamentPartyPicture]"
+
+
+
+  party_1_text:0 "§R自由党§!"
+  party_1_text_desc:0 "\n自由党\n§R党代表§! 威廉·莱昂·麦肯齐·金\n\n\n\n\n£William_Lyon_Mackenzie_King\n\n\n\n\n\n加拿大自由党主张经济自由、个人自由和平等、社会福利以及联邦主义等。致力于推动联邦政府在加拿大各省之间起统整作用，并积极推进国际贸易和外交事务。众多劳工抗议活动以及其他一些社会运动使得自由党内部对于社会改革的呼声愈发强烈。该党开始支持一些劳工权益，如最低工资和工作时间限制，并开始提出更为激进的议案"
+  party_2_text:0 "§B保守党§!"
+  party_2_text_desc:0 "\n保守党\n§R党代表§! 阿瑟·米恩\n\n\n\n\n£Arthur_Meighen\n\n\n\n\n\n加拿大保守党主张维护传统价值观、经济保守和国家利益至上。表现为强调经济自由和反对政府干预，支持英联邦制度并致力于维护加拿大在帝国内地位。然而最近众多劳工抗议活动促使保守党内部出现了支持社会改革和劳工权益的声音，但似乎影响不大。"
+  party_3_text:0 "§0工党§!"
+  party_3_text_desc:0 "\n工党\n§R党代表§! ·詹姆斯·谢弗·伍兹沃斯\n\n\n\n\n£James_Shaver_Woodsworth\n\n\n\n\n\n加拿大工党作为在劳工运动之后新兴的政党，十分关注穷人和弱势群体的权益。该党强烈反对战争、贫困和社会不平等现象，并提出了一系列社会改革方案，包括提高最低工资、建立全民医疗保险和改善住房条件等。其中该党领袖之一Woodsworth致力于推进实现人类自由和平等的目标，被誉为“加拿大现代社会福利制度之父”。"
+  party_4_text:0 "§G农业进步党§!"
+  party_4_text_desc:0 "\n农业进步党\n§R党代表§! 亨利·怀斯·伍德\n\n\n\n\n£Henry_Wise_Wood\n\n\n\n\n\n农业进步党起源自加拿大西部农村地区，是属于加拿大农民的进步主义政党。该党的前身为全国农民联盟，在1919年该党与加拿大进步党合并为农业进步党，由亨利·怀斯·伍德担任第一任党领导人，农业进步党主张促进加拿大独立，进行土地改革，以及农业合作社，这时常被其他党称为苏维埃主义。"

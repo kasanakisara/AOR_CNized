@@ -1,0 +1,17 @@
+﻿l_english:
+ 
+ REQUEST_BUY_WEAPON_TITLE:0 "开始倾销"
+ REQUEST_BUY_WEAPON_ACTION_TITLE:0 "开始倾销"
+ REQUEST_BUY_WEAPON_ACTION_DESC:0 "获得一定量的外贸收入.\n\n以我们强大的军事力量为后盾，我们可以让这个国家进行一些与我们有利的经贸往来。"
+ 
+ CANCEL_BUY_WEAPON_TITLE:0 "暂停倾销"
+ CANCEL_BUY_WEAPON_ACTION_TITLE:0 "暂停倾销"
+ CANCEL_BUY_WEAPON_ACTION_DESC:0 "缓解附庸国的财政负担.\n\n如果我们的财政剩余足够，我们就没必要向附庸国继续倾销商品。"
+ 
+ REFUSE_DUMP_WEAPON_TITLE:0 "废除倾销协议"
+ REFUSE_DUMP_WEAPON_ACTION_TITLE:0 "废除倾销协议"
+ REFUSE_DUMP_WEAPON_ACTION_DESC:0 "废除不平等的倾销协议.\n\n如果我们的宗主国已经没落或者我们完全濒临破产，我们就可以强制性的终止这份贸易条约！"
+ 
+ buy_master_weapon:0"暗中进行的经济掠夺"
+ buy_master_weapon_desc:0"正在被一个大国进行经济殖民，看似冠冕堂皇的贸易带来了表面的繁荣，但在背后却是核心资产的流失。§9（财政收入的一部分已流入外国）§!"
+ 

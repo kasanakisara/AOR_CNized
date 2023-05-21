@@ -1,0 +1,147 @@
+﻿l_english:
+ walfare_effects:0"各部委预算"
+ 
+ 
+ food_support:0"军粮采购补贴"
+ wood_support:0"木材采购补贴"
+ coal_support:0"煤炭采购补贴"
+ 
+ salary_law:0"公务员工资标准"
+ diplomiac:0"对外关系部门预算"
+ research_depart:0"科研机构拨款"
+ 
+ land_budget:0 "陆军开支"
+ airforce_budget:0 "空军开支"
+ naval_budget:0 "海军开支"
+ 
+ 
+ food_tex_level_0:0 "无军粮采购补贴计划"
+ food_tex_level_1:0 "划拨5%资金采购军粮"
+ food_tex_level_2:0 "划拨10%资金采购军粮"
+ food_tex_level_3:0 "划拨15%资金采购军粮"
+ food_tex_level_4:0 "划拨20%资金采购军粮"
+ food_tex_level_5:0 "划拨25%资金采购军粮"
+ 
+ food_tex_level_0_desc:0 "不划拨专项资补贴粮食采购"
+ food_tex_level_1_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W5%§!§g（[?money_food_gui_var_05|0]）§!的资金采购粮食\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y粮食§!。"
+ food_tex_level_2_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W10%§!§g（[?money_food_gui_var_10|0]）§!的资金采购粮食\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y粮食§!。"
+ food_tex_level_3_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W15%§!§g（[?money_food_gui_var_15|0]）§!的资金采购粮食\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y粮食§!。"
+ food_tex_level_4_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W20%§!§g（[?money_food_gui_var_20|0]）§!的资金采购粮食\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y粮食§!。"
+ food_tex_level_5_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W25%§!§g（[?money_food_gui_var_25|0]）§!的资金采购粮食\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y粮食§!。"
+ 
+ wood_tex_level_0:0 "无木材采购补贴计划"
+ wood_tex_level_1:0 "划拨5%资金采购木材"
+ wood_tex_level_2:0 "划拨10%资金采购木材"
+ wood_tex_level_3:0 "划拨15%资金采购木材"
+ wood_tex_level_4:0 "划拨20%资金采购木材"
+ wood_tex_level_5:0 "划拨25%资金采购木材"
+ 
+ wood_tex_level_0_desc:0 "不划拨专项资补贴木材采购"
+ wood_tex_level_1_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W5%§!§g（[?money_wood_gui_var_05|0]）§!的资金采购木材\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y木材§!。"
+ wood_tex_level_2_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W10%§!§g（[?money_wood_gui_var_10|0]）§!的资金采购木材\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y木材§!。"
+ wood_tex_level_3_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W15%§!§g（[?money_wood_gui_var_15|0]）§!的资金采购木材\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y木材§!。"
+ wood_tex_level_4_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W20%§!§g（[?money_wood_gui_var_20|0]）§!的资金采购木材\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y木材§!。"
+ wood_tex_level_5_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W25%§!§g（[?money_wood_gui_var_25|0]）§!的资金采购木材\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y木材§!。"
+ 
+ coal_tex_level_0:0 "无煤炭采购补贴计划"
+ coal_tex_level_1:0 "划拨5%资金采购煤炭"
+ coal_tex_level_2:0 "划拨10%资金采购煤炭"
+ coal_tex_level_3:0 "划拨15%资金采购煤炭"
+ coal_tex_level_4:0 "划拨20%资金采购煤炭"
+ coal_tex_level_5:0 "划拨25%资金采购煤炭"
+ 
+ coal_tex_level_0_desc:0 "不划拨专项资补贴煤炭采购"
+ coal_tex_level_1_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W5%§!§g（[?money_coal_gui_var_05|0]）§!的资金采购煤炭\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y煤炭§!。"
+ coal_tex_level_2_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W10%§!§g（[?money_coal_gui_var_10|0]）§!的资金采购煤炭\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y煤炭§!。"
+ coal_tex_level_3_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W15%§!§g（[?money_coal_gui_var_15|0]）§!的资金采购煤炭\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y煤炭§!。"
+ coal_tex_level_4_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W20%§!§g（[?money_coal_gui_var_20|0]）§!的资金采购煤炭\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y煤炭§!。"
+ coal_tex_level_5_desc:0 "-我国目前的总收入为[?money_all|G0]\n-划拨其中§W25%§!§g（[?money_coal_gui_var_25|0]）§!的资金采购煤炭\n§g-----------§!\n注：每§71§!单位§Y资金§!可采购§4[?money_fwc_coeff|1]§!单位§Y煤炭§!。"
+ 
+ salary_0:0 "公务员I级工资"
+ salary_1:0 "公务员II级工资"
+ salary_2:0 "公务员III级工资"
+ salary_3:0 "公务员IV级工资"
+ salary_4:0 "公务员V级工资"
+ salary_5:0 "公务员VI级工资"
+ salary_6:0 "公务员VII级工资"
+ 
+ salary_0_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_0_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_0_budget_gui_var|Y0]的资金。"
+ salary_1_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_1_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_1_budget_gui_var|Y0]的资金。"
+ salary_2_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_2_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_2_budget_gui_var|Y0]的资金。"
+ salary_3_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_3_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_3_budget_gui_var|Y0]的资金。"
+ salary_4_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_4_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_4_budget_gui_var|Y0]的资金。"
+ salary_5_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_5_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_5_budget_gui_var|Y0]的资金。"
+ salary_6_desc:0 "-我国目前所有的可用的各类型工厂企业共有§8[?num_of_available_factory|0]§!个\n-这个法案计划拨款[?salary_6_idea_gui_var_coeff|W0]的资金为每个工厂企业的公务人员发放工资\n§g-----------§!\n-若采用这个法案，全国公务员工资支出总共需要占用[?salary_6_budget_gui_var|Y0]的资金。"
+ 
+ diplomac_0:0 "外事单位I级经费"
+ diplomac_1:0 "外事单位II级经费"
+ diplomac_2:0 "外事单位III级经费"
+ diplomac_3:0 "外事单位IV级经费"
+ diplomac_4:0 "外事单位V级经费"
+ diplomac_5:0 "外事单位VI级经费"
+ diplomac_6:0 "外事单位VII级经费"
+ 
+ diplomac_0_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_0_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_0_budget_gui_var|0]§!的资金。"
+ diplomac_1_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_1_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_1_budget_gui_var|0]§!的资金。"
+ diplomac_2_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_2_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_2_budget_gui_var|0]§!的资金。"
+ diplomac_3_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_3_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_3_budget_gui_var|0]§!的资金。"
+ diplomac_4_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_4_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_4_budget_gui_var|0]§!的资金。"
+ diplomac_5_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_5_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_5_budget_gui_var|0]§!的资金。"
+ diplomac_6_desc:0 "-我国目前所有民用工厂共有§1[?num_of_civilian_factories|0]§!个\n-这个法案规定每个民用工厂经营的外事业务可以补助[?diplomac_6_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，外事单位的经费拨款总共需要占用§3[?diplomac_6_budget_gui_var|0]§!的资金。"
+ 
+ research_0:0 "科研部I级预算"
+ research_1:0 "科研部II级预算"
+ research_2:0 "科研部III级预算"
+ research_3:0 "科研部IV级预算"
+ research_4:0 "科研部V级预算"
+ research_5:0 "科研部VI级预算"
+ research_6:0 "科研部VII级预算"
+ 
+ research_0_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_0_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_0_budget_gui_var|0]§!的资金。"
+ research_1_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_1_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_1_budget_gui_var|0]§!的资金。"
+ research_2_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_2_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_2_budget_gui_var|0]§!的资金。"
+ research_3_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_3_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_3_budget_gui_var|0]§!的资金。"
+ research_4_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_4_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_4_budget_gui_var|0]§!的资金。"
+ research_5_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_5_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_5_budget_gui_var|0]§!的资金。"
+ research_6_desc:0 "-我国目前拥有§4[?amount_research_slots|0]§!个研究院\n-这个法案规定给每个研究院资助[?research_6_idea_gui_var_coeff|W0]的资金\n§g-----------§!\n-若采用这个法案，全国科研机构的预算总共需要占用§7[?research_6_budget_gui_var|0]§!的资金。"
+ 
+ land_budget_0:0 "轻步兵陆军模式"
+ land_budget_1:0 "基本陆军后勤保障"
+ land_budget_2:0 "合格陆军后勤保障"
+ land_budget_3:0 "陆军高级后勤部"
+ land_budget_4:0 "特别后勤保障委员会"
+
+ land_budget_0_desc:0 "这个法案不需要专门的军费拨款"
+ land_budget_1_desc:0 "这个法案会增加150的总军费需求"
+ land_budget_2_desc:0 "这个法案会增加300的总军费需求"
+ land_budget_3_desc:0 "这个法案会增加450的总军费需求"
+ land_budget_4_desc:0 "这个法案会增加600的总军费需求"
+
+ airforce_budget_0:0 "早期战术空军保障"
+ airforce_budget_1:0 "基本空军后勤保障"
+ airforce_budget_2:0 "合格空军后勤保障"
+ airforce_budget_3:0 "空军高级后勤部"
+ airforce_budget_4:0 "特别空军后勤委员会"
+
+ airforce_budget_0_desc:0 "这个法案不需要专门的军费拨款"
+ airforce_budget_1_desc:0 "这个法案会增加150的总军费需求"
+ airforce_budget_2_desc:0 "这个法案会增加300的总军费需求"
+ airforce_budget_3_desc:0 "这个法案会增加450的总军费需求"
+ airforce_budget_4_desc:0 "这个法案会增加600的总军费需求"
+
+ naval_budget_0:0 "内河舰艇部队模式"
+ naval_budget_1:0 "近海防御型海军后勤"
+ naval_budget_2:0 "均衡型海军后勤保障"
+ naval_budget_3:0 "区域型海军后勤部"
+ naval_budget_4:0 "蓝水海军后勤预算"
+
+ naval_budget_0_desc:0 "这个法案不需要专门的军费拨款"
+ naval_budget_1_desc:0 "这个法案会增加150的总军费需求"
+ naval_budget_2_desc:0 "这个法案会增加300的总军费需求"
+ naval_budget_3_desc:0 "这个法案会增加450的总军费需求"
+ naval_budget_4_desc:0 "这个法案会增加600的总军费需求"
+
+ 
+ 
+ 
+

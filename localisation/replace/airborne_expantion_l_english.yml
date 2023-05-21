@@ -1,0 +1,201 @@
+﻿l_english:
+ ##### Airborne tank battalion ###
+ light_para_armor:0 "空降轻装坦克"
+ light_para_armor_desc:0 "装备轻装坦克的部队，可以进行空降部署。"
+ light_para_sp_artillery:0 "空降轻装火炮"
+ light_para_sp_artillery_desc:0 "装备轻装自行火炮的部队，可以进行空降部署。"
+ light_para_tank_destroyer:0 "空降轻装坦歼"
+ light_para_tank_destroyer_desc:0 "装备轻装坦克歼击车的部队，可以进行空降部署。"
+ light_para_sp_anti_air:0 "空降轻装防空"
+ light_para_sp_anti_air_desc:0 "装备轻装防空车的部队，可以进行空降部署。"
+ paradrop_artillery_support:0"空降山炮支援连"
+ paradrop_artillery_support_desc:0"携带可拆卸山炮的炮兵部队，并接受过空降训练。"
+ 
+ armored_car2:0"伞兵越野车"
+ armored_car2_desc:0"配备给空降兵部队的特战化机动车辆，赋予了伞兵在空降后进行大范围机动作战的能力，大大增强了在敌军后方的破坏力与影响范围。"
+ 
+ paradrop_mot_infantry:0"伞降轻装车"
+ paradrop_mot_infantry_desc:0"配备给空降兵部队的特战化机动车辆，赋予了伞兵在空降后进行大范围机动作战的能力，大大增强了在敌军后方的破坏力与影响范围。"
+ 
+ armored_car_at_upgrade:0"反载具装甲侦查车"
+ 
+ 
+ #### Airborne tank chassis ####
+ paradrop_tank_chassis:0 "空降坦克"
+ paradrop_tank_chassis_desc:0 "空降坦克与空投型轻装突击战车(AAVs)是一种能够通过滑翔机或者大型降落伞进行空投并协助空降兵作战的轻型装甲车辆"
+ paradrop_tank_artillery_chassis:0 "空降自行火炮"
+ paradrop_tank_artillery_chassis_desc:0 "轻型装甲自行火炮可以提升空降兵的火力"
+ paradrop_tank_destroyer_chassis:0 "空降坦克歼击车"
+ paradrop_tank_destroyer_chassis_desc:0 "轻型自行反坦克炮，可以为空降兵提供宝贵的反装甲能力"
+ paradrop_tank_aa_chassis:0 "空降自行防空炮"
+ paradrop_tank_aa_chassis_desc:0 "轻型装甲防空炮，可以伴随空降兵部署，赋予空降兵防空作战的能力"
+ 
+ 
+ paradrop_tank_chassis_0:0 "空降坦克"
+ paradrop_tank_artillery_chassis_0:0 "空降自行火炮"
+ paradrop_tank_destroyer_chassis_0:0 "空降坦克歼击车"
+ paradrop_tank_aa_chassis_0:0 "空降自行防空炮"
+ 
+ 
+ paradrop_tank_chassis_0_short:0 "特种轻型坦克车"
+ paradrop_tank_artillery_chassis_0_short:0 "特种轻型自行火炮"
+ paradrop_tank_destroyer_chassis_0_short:0 "特种轻型坦克歼击车"
+ paradrop_tank_aa_chassis_0_short:0 "特种轻型防空车"
+ USA_paradrop_tank_chassis_0_short:0 "M22 Locust"
+ ENG_paradrop_tank_chassis_0_short:0 "Tetrarch"
+ GER_paradrop_tank_chassis_0_short:0 "Luftangriffpanzer"
+ FRA_paradrop_tank_chassis_0_short:0 "H35 ELC"
+ SOV_paradrop_tank_chassis_0_short:0 "Antonov A-41"
+ JAP_paradrop_tank_chassis_0_short:0 "95式 Ha-Go Kūteishiyō"
+ ITA_paradrop_tank_chassis_0_short:0 "L6 Aerotrasportato"
+ CZE_paradrop_tank_chassis_0_short:0 "LT vz. 34p"
+ POL_paradrop_tank_chassis_0_short:0 "7TP Samolotowy"
+ USA_paradrop_tank_artillery_chassis_0_short:0 "M22 (SP)"
+ ENG_paradrop_tank_artillery_chassis_0_short:0 "Tetrarch (SP)"
+ GER_paradrop_tank_artillery_chassis_0_short:0 "Luftangriffpanzer (SP)"
+ FRA_paradrop_tank_artillery_chassis_0_short:0 "H35 ELC (SP)"
+ SOV_paradrop_tank_artillery_chassis_0_short:0 "A-41 (SP)"
+ JAP_paradrop_tank_artillery_chassis_0_short:0 "95式 Ha-Go (SP)"
+ ITA_paradrop_tank_artillery_chassis_0_short:0 "L6 AERO (SP)"
+ CZE_paradrop_tank_artillery_chassis_0_short:0 "LT vz.34p (SP)"
+ POL_paradrop_tank_artillery_chassis_0_short:0 "7TP Samolotowy (SP)"
+ USA_paradrop_tank_destroyer_chassis_0_short:0 "M22 Locust (AT)"
+ ENG_paradrop_tank_destroyer_chassis_0_short:0 "Tetrarch (AT)"
+ GER_paradrop_tank_destroyer_chassis_0_short:0 "Luftangriffpanzer (AT)"
+ FRA_paradrop_tank_destroyer_chassis_0_short:0 "H35 ELC (AT)"
+ SOV_paradrop_tank_destroyer_chassis_0_short:0 "A-41 (AT)"
+ JAP_paradrop_tank_destroyer_chassis_0_short:0 "95式 Ha-Go (AT)"
+ ITA_paradrop_tank_destroyer_chassis_0_short:0 "L6 Aerotrasportato (AT)"
+ CZE_paradrop_tank_destroyer_chassis_0_short:0 "LT vz.34p (AT)"
+ POL_paradrop_tank_destroyer_chassis_0_short:0 "7TP Samolotowy (AT)"
+ USA_paradrop_tank_aa_chassis_0_short:0 "M22 Locust (AA)"
+ ENG_paradrop_tank_aa_chassis_0_short:0 "Tetrarch (AA)"
+ GER_paradrop_tank_aa_chassis_0_short:0 "Luftangriffpanzer (AA)"
+ FRA_paradrop_tank_aa_chassis_0_short:0 "H35 ELC (AA)"
+ SOV_paradrop_tank_aa_chassis_0_short:0 "A-41 (AA)"
+ JAP_paradrop_tank_aa_chassis_0_short:0 "95式 Ha-Go (AA)"
+ ITA_paradrop_tank_aa_chassis_0_short:0 "L6 Aerotrasportato (AA)"
+ CZE_paradrop_tank_aa_chassis_0_short:0 "LT vz.34p (AA)"
+ POL_paradrop_tank_aa_chassis_0_short:0 "7TP Samolotowy (AA)"
+ 
+ USA_paradrop_tank_equipment_0:0 "M22 Locust"
+ ENG_paradrop_tank_equipment_0:0 "Tetrarch"
+ GER_paradrop_tank_equipment_0:0 "Luftangriffpanzer"
+ FRA_paradrop_tank_equipment_0:0 "H35 ELC"
+ SOV_paradrop_tank_equipment_0:0 "Antonov A-41"
+ JAP_paradrop_tank_equipment_0:0 "95式 Ha-Go Kūteishiyō"
+ ITA_paradrop_tank_equipment_0:0 "L6 Aerotrasportato"
+ CZE_paradrop_tank_equipment_0:0 "LT vz. 34p"
+ POL_paradrop_tank_equipment_0:0 "7TP Samolotowy"
+ USA_paradrop_tank_artillery_equipment_0:0 "M22 (SP)"
+ ENG_paradrop_tank_artillery_equipment_0:0 "Tetrarch (SP)"
+ GER_paradrop_tank_artillery_equipment_0:0 "Luftangriffpanzer (SP)"
+ FRA_paradrop_tank_artillery_equipment_0:0 "H35 ELC (SP)"
+ SOV_paradrop_tank_artillery_equipment_0:0 "A-41 (SP)"
+ JAP_paradrop_tank_artillery_equipment_0:0 "95式 Ha-Go (SP)"
+ ITA_paradrop_tank_artillery_equipment_0:0 "L6 AERO (SP)"
+ CZE_paradrop_tank_artillery_equipment_0:0 "LT vz.34p (SP)"
+ POL_paradrop_tank_artillery_equipment_0:0 "7TP Samolotowy (SP)"
+ USA_paradrop_tank_destroyer_equipment_0:0 "M22 Locust (AT)"
+ ENG_paradrop_tank_destroyer_equipment_0:0 "Tetrarch (AT)"
+ GER_paradrop_tank_destroyer_equipment_0:0 "Luftangriffpanzer (AT)"
+ FRA_paradrop_tank_destroyer_equipment_0:0 "H35 ELC (AT)"
+ SOV_paradrop_tank_destroyer_equipment_0:0 "A-41 (AT)"
+ JAP_paradrop_tank_destroyer_equipment_0:0 "95式 Ha-Go (AT)"
+ ITA_paradrop_tank_destroyer_equipment_0:0 "L6 Aerotrasportato (AT)"
+ CZE_paradrop_tank_destroyer_equipment_0:0 "LT vz.34p (AT)"
+ POL_paradrop_tank_destroyer_equipment_0:0 "7TP Samolotowy (AT)"
+ USA_paradrop_tank_aa_equipment_0:0 "M22 Locust (AA)"
+ ENG_paradrop_tank_aa_equipment_0:0 "Tetrarch (AA)"
+ GER_paradrop_tank_aa_equipment_0:0 "Luftangriffpanzer (AA)"
+ FRA_paradrop_tank_aa_equipment_0:0 "H35 ELC (AA)"
+ SOV_paradrop_tank_aa_equipment_0:0 "A-41 (AA)"
+ JAP_paradrop_tank_aa_equipment_0:0 "95式 Ha-Go (AA)"
+ ITA_paradrop_tank_aa_equipment_0:0 "L6 Aerotrasportato (AA)"
+ CZE_paradrop_tank_aa_equipment_0:0 "LT vz.34p (AA)"
+ POL_paradrop_tank_aa_equipment_0:0 "7TP Samolotowy (AA)"
+ 
+ 
+ ### Defaults Airborne tank Equipment names (if you translated my mode, you don't have to translate it. ^^ ) ###
+ paradrop_tank_equipment_0:0 "空降坦克"
+ paradrop_tank_equipment_0_short:0 "特种轻型坦克车"
+ 
+ USA_paradrop_tank_equipment_0_short:0 "M22 Locust"
+ ENG_paradrop_tank_equipment_0_short:0 "Tetrarch"
+ GER_paradrop_tank_equipment_0_short:0 "Luftangriffpanzer"
+ FRA_paradrop_tank_equipment_0_short:0 "H35 ELC"
+ SOV_paradrop_tank_equipment_0_short:0 "Antonov A-41"
+ JAP_paradrop_tank_equipment_0_short:0 "95式 Ha-Go Kūteishiyō"
+ ITA_paradrop_tank_equipment_0_short:0 "L6 Aerotrasportato"
+ CZE_paradrop_tank_equipment_0_short:0 "LT vz. 34p"
+ POL_paradrop_tank_equipment_0_short:0 "7TP Samolotowy"
+ 
+ 
+ paradrop_tank_artillery_equipment_0:0 "空降自行火炮"
+ paradrop_tank_artillery_equipment_0_short:0 "特种轻型自行火炮"
+ 
+
+ 
+ USA_paradrop_tank_artillery_equipment_0_short:0 "M22 (SP)"
+ ENG_paradrop_tank_artillery_equipment_0_short:0 "Tetrarch (SP)"
+ GER_paradrop_tank_artillery_equipment_0_short:0 "Luftangriffpanzer (SP)"
+ FRA_paradrop_tank_artillery_equipment_0_short:0 "H35 ELC (SP)"
+ SOV_paradrop_tank_artillery_equipment_0_short:0 "A-41 (SP)"
+ JAP_paradrop_tank_artillery_equipment_0_short:0 "95式 Ha-Go (SP)"
+ ITA_paradrop_tank_artillery_equipment_0_short:0 "L6 AERO (SP)"
+ CZE_paradrop_tank_artillery_equipment_0_short:0 "LT vz.34p (SP)"
+ POL_paradrop_tank_artillery_equipment_0_short:0 "7TP Samolotowy (SP)"
+ 
+ paradrop_tank_destroyer_equipment_0:0 "空降坦克歼击车"
+ paradrop_tank_destroyer_equipment_0_short:0 "特种轻型坦克歼击车"
+ 
+ 
+ 
+ USA_paradrop_tank_destroyer_equipment_0_short:0 "M22 Locust (AT)"
+ ENG_paradrop_tank_destroyer_equipment_0_short:0 "Tetrarch (AT)"
+ GER_paradrop_tank_destroyer_equipment_0_short:0 "Luftangriffpanzer (AT)"
+ FRA_paradrop_tank_destroyer_equipment_0_short:0 "H35 ELC (AT)"
+ SOV_paradrop_tank_destroyer_equipment_0_short:0 "A-41 (AT)"
+ JAP_paradrop_tank_destroyer_equipment_0_short:0 "95式 Ha-Go (AT)"
+ ITA_paradrop_tank_destroyer_equipment_0_short:0 "L6 Aerotrasportato (AT)"
+ CZE_paradrop_tank_destroyer_equipment_0_short:0 "LT vz.34p (AT)"
+ POL_paradrop_tank_destroyer_equipment_0_short:0 "7TP Samolotowy (AT)"
+ 
+ paradrop_tank_aa_equipment_0:0 "空降防空车"
+ paradrop_tank_aa_equipment_0_short:0 "特种轻型防空车"
+ 
+ USA_paradrop_tank_aa_equipment_0_short:0 "M22 Locust (AA)"
+ ENG_paradrop_tank_aa_equipment_0_short:0 "Tetrarch (AA)"
+ GER_paradrop_tank_aa_equipment_0_short:0 "Luftangriffpanzer (AA)"
+ FRA_paradrop_tank_aa_equipment_0_short:0 "H35 ELC (AA)"
+ SOV_paradrop_tank_aa_equipment_0_short:0 "A-41 (AA)"
+ JAP_paradrop_tank_aa_equipment_0_short:0 "95式 Ha-Go (AA)"
+ ITA_paradrop_tank_aa_equipment_0_short:0 "L6 Aerotrasportato (AA)"
+ CZE_paradrop_tank_aa_equipment_0_short:0 "LT vz.34p (AA)"
+ POL_paradrop_tank_aa_equipment_0_short:0 "7TP Samolotowy (AA)"
+ 
+ 
+ ### Airborne tank module categories #####
+ EQ_MOD_CAT_tank_para_turret_type_TITLE:0 "空降型装甲配件"
+ 
+ 
+ #### Airborne tank module ####
+ tank_light_one_man_tank_turret_p:0 "空降坦克炮塔"
+ tank_light_one_man_tank_turret_p_desc:0 "一个小炮塔，仅能容纳一名乘员，负责瞄准和装载主要武器，以及监视目标和威胁。"
+ tank_light_fixed_superstructure_turret_p:0 "固定式武器底座"
+ tank_light_fixed_superstructure_turret_p_desc:0 "固定式结构只为主武器赋予了小幅度瞄准角。然而，它允许车辆安装一个更大的武器，换来的是战车整体尺寸较小，使车辆能完美地伏击敌军。"
+ 
+ 
+ ## Tank Designer UI ##
+ tank_designer_paradrop_tank_chassis:0 "空降坦克设计"
+ tank_designer_paradrop_tank_chassis_role_disallowed:0 "请移除空降战车无法装备的模块。"
+ 
+ 
+ ## Motorized Paratrooper battalion ##
+ motorized_paratrooper:0 "机动伞兵"
+ motorized_paratrooper_desc:0 "机动伞兵，配备了可通过滑翔机运输和部署的吉普车或摩托车。"
+ 
+ 
+ ## Paradrop Artillery battalion ##
+ paradrop_artillery:0 "空降野战炮"
+ paradrop_artillery_desc:0 "空降野战炮兵装备着可通过滑翔机运输的野战炮，尽管达不到普通炮兵的火力，但它经过了优化以支持空降作战。"

@@ -1,0 +1,44 @@
+﻿l_english:
+
+ UNIT_LEVEL_0:0 "不堪一击"
+ UNIT_LEVEL_1:0 "乌合之众"
+ UNIT_LEVEL_2:0 "训练初成"
+ UNIT_LEVEL_3:0 "差强人意"
+ UNIT_LEVEL_4:0 "训练有素"
+ UNIT_LEVEL_5:0 "骁勇善战"
+ UNIT_LEVEL_6:0 "精英云集"
+ UNIT_LEVEL_7:0 "铁血雄狮"
+ UNIT_LEVEL_8:0 "王牌劲旅"
+ UNIT_LEVEL_9:0 "百战精锐"
+
+ SHIP_LEVEL_0:0 "不堪一击"
+ SHIP_LEVEL_1:0 "乌合之众"
+ SHIP_LEVEL_2:0 "训练初成"
+ SHIP_LEVEL_3:0 "差强人意"
+ SHIP_LEVEL_4:0 "训练有素"
+ SHIP_LEVEL_5:0 "骁勇善战"
+ SHIP_LEVEL_6:0 "精英云集"
+ SHIP_LEVEL_7:0 "铁血雄狮"
+ SHIP_LEVEL_8:0 "王牌劲旅"
+ SHIP_LEVEL_9:0 "百战精锐"
+
+ AIR_WING_LEVEL_0:0 "不堪一击"
+ AIR_WING_LEVEL_1:0 "乌合之众"
+ AIR_WING_LEVEL_2:0 "训练初成"
+ AIR_WING_LEVEL_3:0 "差强人意"
+ AIR_WING_LEVEL_4:0 "训练有素"
+ AIR_WING_LEVEL_5:0 "骁勇善战"
+ AIR_WING_LEVEL_6:0 "精英云集"
+ AIR_WING_LEVEL_7:0 "铁血雄狮"
+ AIR_WING_LEVEL_8:0 "王牌劲旅"
+ AIR_WING_LEVEL_9:0 "百战精锐"
+ 
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR:0 "§H海陆联合登陆作战指令§!\n第一步、§G点击§!一个高亮省份以设置出发点。\n第二步、§G右键点击§!需要的海岸省份以入侵。\n一旦计划激活，登陆行动将开始从储备中自行准备并预留运输船和一个浮动港口。"
+ 
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV:0 "§H抢滩作战行动指令§!\n第一步、§G点击§!一个高亮省份以设置出发点。\n第二步、§G右键点击§!需要的海岸省份以登陆。\n一旦计划激活，登陆行动将开始从国库中自行生产并储备护航舰队。"
+ 
+ brilliant_strategist:0 "机敏过人的战略家"
+ inflexible_strategist:0 "沉着冷静的战略家"
+ 
+ 
+

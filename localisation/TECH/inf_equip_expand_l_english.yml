@@ -1,0 +1,445 @@
+﻿l_english:
+ commando_equipment:0"特战装备"
+ engineer_equipment:0"保障装备"
+ commando_equipment_1:0"特战装备"
+ engineer_equipment_1:0"保障装备"
+ commando_equipment_desc:0"特战装备包含特制装具和特制突击步枪等专为特战队员使用的高端武器。"
+ engineer_equipment_desc:0"保障装备包括维修用品、工兵装备等一系列军事物流类的保障部队持续作战的装备。"
+ commando_equipment_1_desc:0"特战装备包含特制装具和特制突击步枪等专为特战队员使用的高端武器。"
+ engineer_equipment_1_desc:0"保障装备包括维修用品、工兵装备等一系列工程保障类部队所需要的装备。"
+ 
+ cava_equipment:0"骑兵装具"
+ cava_equipment_1:0"骑兵装备"
+ cava_equipment_1_short:0"骑兵战马装具"
+ cava_equipment_desc:0"骑兵所需的战刀和马具，以及给战马使用的护具。"
+ cava_equipment_1_desc:0"骑兵所需的战刀和马具，以及给战马使用的护具。"
+ 
+ mechgun_inf:0 "精锐步兵"
+ mechgun_inf_desc:0 "精锐步兵由身经百战的老兵组成，一般作为机动救火队，投入在最关键的战线上。"
+ firepower_unit:0 "机枪连"
+ firepower_unit_desc:0 "机枪连可以协助攻防作战，是最常见的辅助部队。"
+ mechgun_equipment:0"重机枪"
+ mechgun_equipment_0_short:0"海外版m1917机枪"
+ mechgun_equipment_0:0"30年机枪"
+ mechgun_equipment_1_short:0"仿vicker-II机枪"
+ mechgun_equipment_1:0"38年机枪"
+ mechgun_equipment_2_short:0"L37型通用机枪"
+ mechgun_equipment_2:0"42年机枪"
+ mechgun_equipment_3_short:0"M26.50通用机枪"
+ mechgun_equipment_3:0"50年机枪"
+ 
+ BEL_mechgun_equipment_0_short:0"M1909重机枪"
+ BEL_mechgun_equipment_1_short:0"Fm40重机枪"
+ BEL_mechgun_equipment_2_short:0"布伦-2型通用机枪"
+ BEL_mechgun_equipment_3_short:0"FN造50版m1909"
+ 
+ CHI_mechgun_equipment_0_short:0"Ke-7机枪"
+ CHI_mechgun_equipment_1_short:0"布伦班组机枪"
+ CHI_mechgun_equipment_2_short:0"SG43重机枪"
+ CHI_mechgun_equipment_3_short:0"捷克式zb-52重机枪"
+ 
+ CZE_mechgun_equipment_0_short:0"zb-37重机枪"
+ CZE_mechgun_equipment_1_short:0"zb-43重机枪"
+ CZE_mechgun_equipment_2_short:0"zb-50重机枪"
+ CZE_mechgun_equipment_3_short:0"Cz-50版m1919"
+ 
+ ENG_mechgun_equipment_0_short:0"lewis双人机枪"
+ ENG_mechgun_equipment_1_short:0"vikers-wc通用机枪"
+ ENG_mechgun_equipment_2_short:0"布伦-2型通用机枪"
+ ENG_mechgun_equipment_3_short:0"vikers重机枪"
+ 
+ FIN_mechgun_equipment_0_short:0"zbvz26重机枪"
+ FIN_mechgun_equipment_1_short:0"m26-1重机枪"
+ FIN_mechgun_equipment_2_short:0"lahtim44重机枪"
+ FIN_mechgun_equipment_3_short:0"Browning-19a重机枪"
+ 
+ FRA_mechgun_equipment_0_short:0"Chauchat重机枪"
+ FRA_mechgun_equipment_1_short:0"mac.fm2429重机枪"
+ FRA_mechgun_equipment_2_short:0"hotchkiss-26重机枪"
+ FRA_mechgun_equipment_3_short:0"hotchkiss-41重机枪"
+ 
+ NFA_mechgun_equipment_0_short:0"Chauchat重机枪"
+ NFA_mechgun_equipment_1_short:0"mac.fm2429重机枪"
+ NFA_mechgun_equipment_2_short:0"hotchkiss-26重机枪"
+ NFA_mechgun_equipment_3_short:0"hotchkiss-41重机枪"
+ 
+ GER_mechgun_equipment_0_short:0"mg30通用机枪"
+ GER_mechgun_equipment_1_short:0"mg34通用机枪"
+ GER_mechgun_equipment_2_short:0"mg42-2通用机枪"
+ GER_mechgun_equipment_3_short:0"mg42-5通用机枪"
+ 
+ MAF_mechgun_equipment_0_short:0"mg30通用机枪"
+ MAF_mechgun_equipment_1_short:0"mg34通用机枪"
+ MAF_mechgun_equipment_2_short:0"mg42-2通用机枪"
+ MAF_mechgun_equipment_3_short:0"mg42-5通用机枪"
+ 
+ GEA_mechgun_equipment_0_short:0"mg30通用机枪"
+ GEA_mechgun_equipment_1_short:0"mg34通用机枪"
+ GEA_mechgun_equipment_2_short:0"mg42-2通用机枪"
+ GEA_mechgun_equipment_3_short:0"mg42-5通用机枪"
+ 
+ LEP_mechgun_equipment_0_short:0"mg30通用机枪"
+ LEP_mechgun_equipment_1_short:0"mg34通用机枪"
+ LEP_mechgun_equipment_2_short:0"mg42-2通用机枪"
+ LEP_mechgun_equipment_3_short:0"mg42-5通用机枪"
+ 
+ QIE_mechgun_equipment_0_short:0"mg30通用机枪"
+ QIE_mechgun_equipment_1_short:0"mg34通用机枪"
+ QIE_mechgun_equipment_2_short:0"mg42-2通用机枪"
+ QIE_mechgun_equipment_3_short:0"mg42-5通用机枪"
+ 
+ 
+ 
+ HOL_mechgun_equipment_0_short:0"solothurn mg30机枪"
+ HOL_mechgun_equipment_1_short:0"升级款hotch-22机枪"
+ HOL_mechgun_equipment_2_short:0"ZB37重机枪"
+ HOL_mechgun_equipment_3_short:0"Revelli35重机枪"
+ 
+ HUN_mechgun_equipment_0_short:0"wz-28重机枪"
+ HUN_mechgun_equipment_1_short:0"charlton重机枪"
+ HUN_mechgun_equipment_2_short:0"Schwarzlose重机枪"
+ HUN_mechgun_equipment_3_short:0"Schwar.L-2重机枪"
+ 
+ ITA_mechgun_equipment_0_short:0"Breda30重机枪"
+ ITA_mechgun_equipment_1_short:0"德制mg42通用机枪"
+ ITA_mechgun_equipment_2_short:0"img42-V通用机枪"
+ ITA_mechgun_equipment_3_short:0"Breda-47通用机枪"
+ 
+ SRI_mechgun_equipment_0_short:0"Breda30重机枪"
+ SRI_mechgun_equipment_1_short:0"德制mg42通用机枪"
+ SRI_mechgun_equipment_2_short:0"img42-V通用机枪"
+ SRI_mechgun_equipment_3_short:0"Breda-47通用机枪"
+ 
+ SIC_mechgun_equipment_0_short:0"Breda30重机枪"
+ SIC_mechgun_equipment_1_short:0"德制mg42通用机枪"
+ SIC_mechgun_equipment_2_short:0"img42-V通用机枪"
+ SIC_mechgun_equipment_3_short:0"Breda-47通用机枪"
+ 
+ JAP_mechgun_equipment_0_short:0"99式重机枪"
+ JAP_mechgun_equipment_1_short:0"十年式重机枪"
+ JAP_mechgun_equipment_2_short:0"九十七号重机枪"
+ JAP_mechgun_equipment_3_short:0"九二式重机枪"
+ 
+ FNG_mechgun_equipment_0_short:0"沈阳-99型重机枪"
+ FNG_mechgun_equipment_1_short:0"满造-十年式重机枪"
+ FNG_mechgun_equipment_2_short:0"满洲97号重机枪"
+ FNG_mechgun_equipment_3_short:0"满-48式重机枪"
+ 
+ MEN_mechgun_equipment_0_short:0"99式重机枪"
+ MEN_mechgun_equipment_1_short:0"蒙造-10式重机枪"
+ MEN_mechgun_equipment_2_short:0"九十七号重机枪"
+ MEN_mechgun_equipment_3_short:0"九二式重机枪"
+ 
+ PRC_mechgun_equipment_0_short:0"仿zb-26班组机枪"
+ PRC_mechgun_equipment_1_short:0"边区仿制型“歪把子”"
+ PRC_mechgun_equipment_2_short:0"俄制sg-43重机枪"
+ PRC_mechgun_equipment_3_short:0"俄制sg-48重机枪"
+ 
+ ROM_mechgun_equipment_0_short:0"Zb30重机枪"
+ ROM_mechgun_equipment_1_short:0"FM2429重机枪"
+ ROM_mechgun_equipment_2_short:0"Barm1918重机枪"
+ ROM_mechgun_equipment_3_short:0"lahti50重机枪"
+ 
+ SOV_mechgun_equipment_0_short:0"Bt-08式重机枪"
+ SOV_mechgun_equipment_1_short:0"dp28班组机枪"
+ SOV_mechgun_equipment_2_short:0"sg-43重机枪"
+ SOV_mechgun_equipment_3_short:0"sg43.II代重机枪"
+ 
+ RUS_mechgun_equipment_0_short:0"Bt-08式重机枪"
+ RUS_mechgun_equipment_1_short:0"dp28班组机枪"
+ RUS_mechgun_equipment_2_short:0"sg-43重机枪"
+ RUS_mechgun_equipment_3_short:0"sg43.II代重机枪"
+ 
+ MON_mechgun_equipment_0_short:0"Bt-08式重机枪"
+ MON_mechgun_equipment_1_short:0"dp28班组机枪"
+ MON_mechgun_equipment_2_short:0"sg-43重机枪"
+ MON_mechgun_equipment_3_short:0"sg43.II代重机枪"
+ 
+ TAN_mechgun_equipment_0_short:0"Bt-08式重机枪"
+ TAN_mechgun_equipment_1_short:0"dp28班组机枪"
+ TAN_mechgun_equipment_2_short:0"sg-43重机枪"
+ TAN_mechgun_equipment_3_short:0"sg43.II代重机枪"
+ 
+ USA_mechgun_equipment_0_short:0"Browning班组机枪"
+ USA_mechgun_equipment_1_short:0"m1919a6重机枪"
+ USA_mechgun_equipment_2_short:0"轻量化m1919重机枪"
+ USA_mechgun_equipment_3_short:0"M2重机枪"
+ 
+ YUG_mechgun_equipment_0_short:0"FN-1930重机枪"
+ YUG_mechgun_equipment_1_short:0"Mac31重机枪"
+ YUG_mechgun_equipment_2_short:0"仿mg40通用机枪"
+ YUG_mechgun_equipment_3_short:0"kulspruta.m42重机枪"
+ 
+ 
+ 
+ 
+ 
+
+ mechgun_equipment_desc:0"机枪装配有固定枪架，加重的枪管，能长时间连续射击。有好的远距离射击精度和火力持续性，能较方便地实施超越、间隙、散布射击。主要用于歼灭和压制1000米内的敌集团有生目标、火力点和薄壁装甲目标，封锁交通要道，支援步兵冲击，必要时也可用于高射，歼灭敌低空目标。"
+ mechgun_equipment_0_desc:0"机枪装配有固定枪架，加重的枪管，能长时间连续射击。有好的远距离射击精度和火力持续性，能较方便地实施超越、间隙、散布射击。主要用于歼灭和压制1000米内的敌集团有生目标、火力点和薄壁装甲目标，封锁交通要道，支援步兵冲击，必要时也可用于高射，歼灭敌低空目标。"
+ mechgun_equipment_1_desc:0"机枪装配有固定枪架，加重的枪管，能长时间连续射击。有好的远距离射击精度和火力持续性，能较方便地实施超越、间隙、散布射击。主要用于歼灭和压制1000米内的敌集团有生目标、火力点和薄壁装甲目标，封锁交通要道，支援步兵冲击，必要时也可用于高射，歼灭敌低空目标。"
+ mechgun_equipment_2_desc:0"机枪装配有固定枪架，加重的枪管，能长时间连续射击。有好的远距离射击精度和火力持续性，能较方便地实施超越、间隙、散布射击。主要用于歼灭和压制1000米内的敌集团有生目标、火力点和薄壁装甲目标，封锁交通要道，支援步兵冲击，必要时也可用于高射，歼灭敌低空目标。"
+ mechgun_equipment_3_desc:0"机枪装配有固定枪架，加重的枪管，能长时间连续射击。有好的远距离射击精度和火力持续性，能较方便地实施超越、间隙、散布射击。主要用于歼灭和压制1000米内的敌集团有生目标、火力点和薄壁装甲目标，封锁交通要道，支援步兵冲击，必要时也可用于高射，歼灭敌低空目标。"
+ 
+ 
+ mortar_brigade:0 "迫击炮"
+ mortar_brigade_desc:0 "迫击炮营虽然不如野战炮兵火力强大，但是却有良好的经济性并且适合山区机动。"
+ mortar_equipment:0"迫击炮班组装备"
+ mortar_equipment_0:0"30年迫击炮设备"
+ mortar_equipment_1:0"38年迫击炮设备"
+ mortar_equipment_2:0"42年迫击炮设备"
+ mortar_equipment_3:0"50年迫击炮设备"
+ mortar_equipment_0_short:0"30式迫击炮"
+ mortar_equipment_1_short:0"海外版E-8迫击炮"
+ mortar_equipment_2_short:0"M-42型迫击炮"
+ mortar_equipment_3_short:0"Alpha多功能迫击炮"
+ 
+ 
+ ENG_mortar_equipment_0_short:0"英制stokes迫击炮"
+ ENG_mortar_equipment_1_short:0"SBML2英寸迫击炮"
+ ENG_mortar_equipment_2_short:0"ML3英寸迫击炮"
+ ENG_mortar_equipment_3_short:0"ML4.2英寸迫击炮"
+ 
+ FRA_mortar_equipment_0_short:0"法制stokes迫击炮"
+ FRA_mortar_equipment_1_short:0"勃兰特35型迫击炮"
+ FRA_mortar_equipment_2_short:0"勃兰特42-1型迫击炮"
+ FRA_mortar_equipment_3_short:0"波兰特A5迫击炮"
+ 
+ NFA_mortar_equipment_0_short:0"法制stokes迫击炮"
+ NFA_mortar_equipment_1_short:0"勃兰特35型迫击炮"
+ NFA_mortar_equipment_2_short:0"勃兰特42-1型迫击炮"
+ NFA_mortar_equipment_3_short:0"波兰特A5迫击炮"
+ 
+ GER_mortar_equipment_0_short:0"轻型地雷发射器"
+ GER_mortar_equipment_1_short:0"5cm36型迫击炮"
+ GER_mortar_equipment_2_short:0"8cm34型迫击炮"
+ GER_mortar_equipment_3_short:0"12cm42型迫击炮"
+ 
+ MAF_mortar_equipment_0_short:0"轻型地雷发射器"
+ MAF_mortar_equipment_1_short:0"5cm36型迫击炮"
+ MAF_mortar_equipment_2_short:0"8cm34型迫击炮"
+ MAF_mortar_equipment_3_short:0"12cm42型迫击炮"
+ 
+ GEA_mortar_equipment_0_short:0"轻型地雷发射器"
+ GEA_mortar_equipment_1_short:0"5cm36型迫击炮"
+ GEA_mortar_equipment_2_short:0"8cm34型迫击炮"
+ GEA_mortar_equipment_3_short:0"12cm42型迫击炮"
+ 
+ LEP_mortar_equipment_0_short:0"轻型地雷发射器"
+ LEP_mortar_equipment_1_short:0"5cm36型迫击炮"
+ LEP_mortar_equipment_2_short:0"8cm34型迫击炮"
+ LEP_mortar_equipment_3_short:0"12cm42型迫击炮"
+ 
+ QIE_mortar_equipment_0_short:0"轻型地雷发射器"
+ QIE_mortar_equipment_1_short:0"5cm36型迫击炮"
+ QIE_mortar_equipment_2_short:0"8cm34型迫击炮"
+ QIE_mortar_equipment_3_short:0"12cm42型迫击炮"
+ 
+ ITA_mortar_equipment_0_short:0"意制stokes迫击炮"
+ ITA_mortar_equipment_1_short:0"wz. 36榴弹发射器"
+ ITA_mortar_equipment_2_short:0"wz. 31迫击炮"
+ ITA_mortar_equipment_3_short:0"wz. 40-ST迫击炮"
+ 
+ SRI_mortar_equipment_0_short:0"意制stokes迫击炮"
+ SRI_mortar_equipment_1_short:0"wz. 36榴弹发射器"
+ SRI_mortar_equipment_2_short:0"wz. 31迫击炮"
+ SRI_mortar_equipment_3_short:0"wz. 40-ST迫击炮"
+ 
+ SIC_mortar_equipment_0_short:0"意制stokes迫击炮"
+ SIC_mortar_equipment_1_short:0"wz. 36榴弹发射器"
+ SIC_mortar_equipment_2_short:0"wz. 31迫击炮"
+ SIC_mortar_equipment_3_short:0"wz. 40-ST迫击炮"
+ 
+ SOV_mortar_equipment_0_short:0"9cmGR型迫击炮"
+ SOV_mortar_equipment_1_short:0"RM-38迫击炮"
+ SOV_mortar_equipment_2_short:0"82-PM-41迫击炮"
+ SOV_mortar_equipment_3_short:0"120-PM-43重型迫击炮"
+ 
+ RUS_mortar_equipment_0_short:0"9cmGR型迫击炮"
+ RUS_mortar_equipment_1_short:0"RM-38迫击炮"
+ RUS_mortar_equipment_2_short:0"82-PM-41迫击炮"
+ RUS_mortar_equipment_3_short:0"120-PM-43重型迫击炮"
+ 
+ MON_mortar_equipment_0_short:0"9cmGR型迫击炮"
+ MON_mortar_equipment_1_short:0"RM-38迫击炮"
+ MON_mortar_equipment_2_short:0"82-PM-41迫击炮"
+ MON_mortar_equipment_3_short:0"120-PM-43重型迫击炮"
+ 
+ TAN_mortar_equipment_0_short:0"9cmGR型迫击炮"
+ TAN_mortar_equipment_1_short:0"RM-38迫击炮"
+ TAN_mortar_equipment_2_short:0"82-PM-41迫击炮"
+ TAN_mortar_equipment_3_short:0"120-PM-43重型迫击炮"
+ 
+ USA_mortar_equipment_0_short:0"美制stokes迫击炮"
+ USA_mortar_equipment_1_short:0"M2 60mm迫击炮"
+ USA_mortar_equipment_2_short:0"M1迫击炮"
+ USA_mortar_equipment_3_short:0"M2 4.2英寸迫击炮"
+ 
+ JAP_mortar_equipment_0_short:0"十一年式迫击炮"
+ JAP_mortar_equipment_1_short:0"十年式掷弹筒"
+ JAP_mortar_equipment_2_short:0"九四式迫击炮"
+ JAP_mortar_equipment_3_short:0"二式12cm迫击炮"
+ 
+ MEN_mortar_equipment_0_short:0"十一年式迫击炮"
+ MEN_mortar_equipment_1_short:0"十年式掷弹筒"
+ MEN_mortar_equipment_2_short:0"九四式迫击炮"
+ MEN_mortar_equipment_3_short:0"二式12cm迫击炮"
+ 
+ FNG_mortar_equipment_0_short:0"十一年式迫击炮"
+ FNG_mortar_equipment_1_short:0"十年式掷弹筒"
+ FNG_mortar_equipment_2_short:0"九四式迫击炮"
+ FNG_mortar_equipment_3_short:0"二式12cm迫击炮"
+ 
+ JAP_mortar_equipment_0_short:0"十一年式迫击炮"
+ JAP_mortar_equipment_1_short:0"十年式掷弹筒"
+ JAP_mortar_equipment_2_short:0"九四式迫击炮"
+ JAP_mortar_equipment_3_short:0"二式12cm迫击炮"
+ 
+ PRC_mortar_equipment_0_short:0"仿制型stokes迫击炮"
+ PRC_mortar_equipment_1_short:0"仿-10掷弹筒"
+ PRC_mortar_equipment_2_short:0"82-ZPM迫击炮"
+ PRC_mortar_equipment_3_short:0"120-ZPM迫击炮"
+ 
+ CHI_mortar_equipment_0_short:0"海外版Stok迫击炮"
+ CHI_mortar_equipment_1_short:0"中造-36型迫击炮"
+ CHI_mortar_equipment_2_short:0"M1迫击炮"
+ CHI_mortar_equipment_3_short:0"ZH 4.2英寸迫击炮"
+ 
+ mortar_equipment_desc:0"迫击炮自问世以来就一直是支援和伴随步兵作战的一种有效的压制兵器，虽然不及重型火炮一般具有恐怖的杀伤力，但他的机动性与适配性却让它成为了步兵极为重要的常规兵器。迫击炮就像一个顽固的“老人”，冷眼看待各种高新技术兵器争奇斗艳，而自己却静静地占据着陆军装备的一席之地。迫击炮是一种适合对遮蔽目标实施曲射的一种火炮，多作为步兵营以下分队的压制武器。其最大本领是杀伤近距离或在山丘等障碍物后面的敌人并压制敌方火力点，用来摧毁轻型工事或桥梁等，也可用于施放烟幕弹和照明弹。"
+ mortar_equipment_0_desc:0"迫击炮自问世以来就一直是支援和伴随步兵作战的一种有效的压制兵器，虽然不及重型火炮一般具有恐怖的杀伤力，但他的机动性与适配性却让它成为了是步兵极为重要的常规兵器。迫击炮就像一个顽固的“老人”，冷眼看待各种高新技术兵器争奇斗艳，而自己却静静地占据着陆军装备的一席之地。迫击炮是一种适合对遮蔽目标实施曲射的一种火炮，多作为步兵营以下分队的压制武器。其最大本领是杀伤近距离或在山丘等障碍物后面的敌人并压制敌方火力点，用来摧毁轻型工事或桥梁等，也可用于施放烟幕弹和照明弹。"
+ mortar_equipment_1_desc:0"迫击炮自问世以来就一直是支援和伴随步兵作战的一种有效的压制兵器，虽然不及重型火炮一般具有恐怖的杀伤力，但他的机动性与适配性却让它成为了步兵极为重要的常规兵器。迫击炮就像一个顽固的“老人”，冷眼看待各种高新技术兵器争奇斗艳，而自己却静静地占据着陆军装备的一席之地。迫击炮是一种适合对遮蔽目标实施曲射的一种火炮，多作为步兵营以下分队的压制武器。其最大本领是杀伤近距离或在山丘等障碍物后面的敌人并压制敌方火力点，用来摧毁轻型工事或桥梁等，也可用于施放烟幕弹和照明弹。"
+ mortar_equipment_2_desc:0"迫击炮自问世以来就一直是支援和伴随步兵作战的一种有效的压制兵器，虽然不及重型火炮一般具有恐怖的杀伤力，但他的机动性与适配性却让它成为了步兵极为重要的常规兵器。迫击炮就像一个顽固的“老人”，冷眼看待各种高新技术兵器争奇斗艳，而自己却静静地占据着陆军装备的一席之地。迫击炮是一种适合对遮蔽目标实施曲射的一种火炮，多作为步兵营以下分队的压制武器。其最大本领是杀伤近距离或在山丘等障碍物后面的敌人并压制敌方火力点，用来摧毁轻型工事或桥梁等，也可用于施放烟幕弹和照明弹。"
+ mortar_equipment_3_desc:0"迫击炮自问世以来就一直是支援和伴随步兵作战的一种有效的压制兵器，虽然不及重型火炮一般具有恐怖的杀伤力，但他的机动性与适配性却让它成为了步兵极为重要的常规兵器。迫击炮就像一个顽固的“老人”，冷眼看待各种高新技术兵器争奇斗艳，而自己却静静地占据着陆军装备的一席之地。迫击炮是一种适合对遮蔽目标实施曲射的一种火炮并压制敌方火力点，多作为步兵营以下分队的压制武器。其最大本领是杀伤近距离或在山丘等障碍物后面的敌人，用来摧毁轻型工事或桥梁等，也可用于施放烟幕弹和照明弹。"
+ 
+ gw_artillery:0"30年炮兵装备"
+ artillery1:0"39年炮兵装备"
+ artillery4:0"42年炮兵装备"
+ artillery_b:0"45年炮兵装备"
+ 
+ heavy_artillery_brigade:0"重型炮兵"
+ heavy_artillery_brigade_desc:0"重炮部队是专门组建用于攻击永备军事要塞的部队"
+ 
+ heavy_artillery_equipment:0"重型加农榴弹炮"
+ heavy_artillery_equipment_desc:0"战区级指挥机构直接隶属的重型火炮装备，比营级炮兵的火力更猛，一般用于打击最高优先级的目标"
+ 
+ heavy_artillery_equipment_0:0"战间期重型火炮"
+ heavy_artillery_equipment_0_desc:0"被设计用来攻击永备性的防御设施或者进行战区级的火力准备的火炮，由师级单位直接指挥，用于投入到最关键的战斗中。"
+ heavy_artillery_equipment_0_short:0"sfh36重型榴弹炮"
+ 
+ heavy_artillery_equipment_1:0"39年重型火炮"
+ heavy_artillery_equipment_1_desc:0"被设计用来攻击永备性的防御设施或者进行战区级的火力准备的火炮，由师级单位直接指挥，用于投入到最关键的战斗中。"
+ heavy_artillery_equipment_1_short:0"长管版Tom重型火炮"
+ 
+ heavy_artillery_equipment_2:0"42年重型火炮"
+ heavy_artillery_equipment_2_desc:0"被设计用来攻击永备性的防御设施或者进行战区级的火力准备的火炮，由师级单位直接指挥，用于投入到最关键的战斗中。"
+ heavy_artillery_equipment_2_short:0"8.0英寸加农炮"
+ 
+ heavy_artillery_equipment_3:0"45年重型火炮"
+ heavy_artillery_equipment_2_desc:0"被设计用来攻击永备性的防御设施或者进行战区级的火力准备的火炮，由师级单位直接指挥，用于投入到最关键的战斗中。"
+ heavy_artillery_equipment_3_short:0"长管8.0英寸多用途重炮"
+ 
+ ENG_heavy_artillery_equipment_0_short:0"M1918 GPF重型火炮"
+ ENG_heavy_artillery_equipment_1_short:0"Bl-MK8重型火炮"
+ ENG_heavy_artillery_equipment_2_short:0"155mm GPF重型火炮"
+ ENG_heavy_artillery_equipment_3_short:0"增强型GPF7-重型火炮"
+ 
+ FRA_heavy_artillery_equipment_0_short:0"斯柯达m1917要塞火炮"
+ FRA_heavy_artillery_equipment_1_short:0"Modele1917 220mm重型火炮"
+ FRA_heavy_artillery_equipment_2_short:0"法制155mm gpf重型火炮"
+ FRA_heavy_artillery_equipment_3_short:0"标准化8英寸重型火炮"
+ 
+ NFA_heavy_artillery_equipment_0_short:0"斯柯达m1917要塞火炮"
+ NFA_heavy_artillery_equipment_1_short:0"Modele1917 220mm重型火炮"
+ NFA_heavy_artillery_equipment_2_short:0"法制155mm gpf重型火炮"
+ NFA_heavy_artillery_equipment_3_short:0"标准化8英寸重型火炮"
+ 
+ GER_heavy_artillery_equipment_0_short:0"big bertha重型火炮"
+ GER_heavy_artillery_equipment_1_short:0"Kanone-18重型火炮"
+ GER_heavy_artillery_equipment_2_short:0"Morser-22重型火炮"
+ GER_heavy_artillery_equipment_3_short:0"Morser18-45重型火炮"
+ 
+ MAF_heavy_artillery_equipment_0_short:0"big bertha重型火炮"
+ MAF_heavy_artillery_equipment_1_short:0"Kanone-18重型火炮"
+ MAF_heavy_artillery_equipment_2_short:0"Morser-22重型火炮"
+ MAF_heavy_artillery_equipment_3_short:0"Morser18-45重型火炮"
+ 
+ GEA_heavy_artillery_equipment_0_short:0"big bertha重型火炮"
+ GEA_heavy_artillery_equipment_1_short:0"Kanone-18重型火炮"
+ GEA_heavy_artillery_equipment_2_short:0"Morser-22重型火炮"
+ GEA_heavy_artillery_equipment_3_short:0"Morser18-45重型火炮"
+ 
+ LEP_heavy_artillery_equipment_0_short:0"big bertha重型火炮"
+ LEP_heavy_artillery_equipment_1_short:0"Kanone-18重型火炮"
+ LEP_heavy_artillery_equipment_2_short:0"Morser-22重型火炮"
+ LEP_heavy_artillery_equipment_3_short:0"Morser18-45重型火炮"
+ 
+ QIE_heavy_artillery_equipment_0_short:0"big bertha重型火炮"
+ QIE_heavy_artillery_equipment_1_short:0"Kanone-18重型火炮"
+ QIE_heavy_artillery_equipment_2_short:0"Morser-22重型火炮"
+ QIE_heavy_artillery_equipment_3_short:0"Morser18-45重型火炮"
+ 
+ ITA_heavy_artillery_equipment_0_short:0"Obice21022重型火炮"
+ ITA_heavy_artillery_equipment_1_short:0"德制 170mm kanone18重型火炮"
+ ITA_heavy_artillery_equipment_2_short:0"贝尔 14940-2重型火炮"
+ ITA_heavy_artillery_equipment_3_short:0"cannone15237重型火炮"
+ 
+ SRI_heavy_artillery_equipment_0_short:0"Obice21022重型火炮"
+ SRI_heavy_artillery_equipment_1_short:0"德制 170mm kanone18重型火炮"
+ SRI_heavy_artillery_equipment_2_short:0"贝尔 14940-2重型火炮"
+ SRI_heavy_artillery_equipment_3_short:0"cannone15237重型火炮"
+ 
+ SIC_heavy_artillery_equipment_0_short:0"Obice21022重型火炮"
+ SIC_heavy_artillery_equipment_1_short:0"德制 170mm kanone18重型火炮"
+ SIC_heavy_artillery_equipment_2_short:0"贝尔 14940-2重型火炮"
+ SIC_heavy_artillery_equipment_3_short:0"cannone15237重型火炮"
+ 
+ JAP_heavy_artillery_equipment_0_short:0"仿意大利21022火炮"
+ JAP_heavy_artillery_equipment_1_short:0"增强型八九-年式远程火炮"
+ JAP_heavy_artillery_equipment_2_short:0"增强型九六-年式远程火炮"
+ JAP_heavy_artillery_equipment_3_short:0"日产贝尔（改）-14940型重炮"
+ 
+ FNG_heavy_artillery_equipment_0_short:0"满洲 21022火炮"
+ FNG_heavy_artillery_equipment_1_short:0"满造八九-年式远程火炮"
+ FNG_heavy_artillery_equipment_2_short:0"满造九六-年式远程火炮"
+ FNG_heavy_artillery_equipment_3_short:0"沈阳产bertha-494重型火炮"
+ 
+ MEN_heavy_artillery_equipment_0_short:0"蒙造 I-21022火炮"
+ MEN_heavy_artillery_equipment_1_short:0"蒙造 89式重型火炮"
+ MEN_heavy_artillery_equipment_2_short:0"蒙造 96式重型火炮"
+ MEN_heavy_artillery_equipment_3_short:0"进口型 贝尔-14940型重炮"
+ 
+ SOV_heavy_artillery_equipment_0_short:0"ml20型重型火炮"
+ SOV_heavy_artillery_equipment_1_short:0"br2-m135型重型火炮"
+ SOV_heavy_artillery_equipment_2_short:0"b4“战锤”重型火炮"
+ SOV_heavy_artillery_equipment_3_short:0"br-5“雷神”重型火炮"
+ 
+ RUS_heavy_artillery_equipment_0_short:0"ml20型重型火炮"
+ RUS_heavy_artillery_equipment_1_short:0"br2-m135型重型火炮"
+ RUS_heavy_artillery_equipment_2_short:0"b4“战锤”重型火炮"
+ RUS_heavy_artillery_equipment_3_short:0"br-5“雷神”重型火炮"
+ 
+ MON_heavy_artillery_equipment_0_short:0"ml20型重型火炮"
+ MON_heavy_artillery_equipment_1_short:0"br2-m135型重型火炮"
+ MON_heavy_artillery_equipment_2_short:0"b4“战锤”重型火炮"
+ MON_heavy_artillery_equipment_3_short:0"br-5“雷神”重型火炮"
+ 
+ TAN_heavy_artillery_equipment_0_short:0"ml20型重型火炮"
+ TAN_heavy_artillery_equipment_1_short:0"br2-m135型重型火炮"
+ TAN_heavy_artillery_equipment_2_short:0"b4“战锤”重型火炮"
+ TAN_heavy_artillery_equipment_3_short:0"br-5“雷神”重型火炮"
+ 
+ USA_heavy_artillery_equipment_0_short:0"8.0英寸要塞火炮"
+ USA_heavy_artillery_equipment_1_short:0"M1 240mm重型火炮"
+ USA_heavy_artillery_equipment_2_short:0"Tom-C 重型火炮"
+ USA_heavy_artillery_equipment_3_short:0"Tom-E 重型火炮"
+ 
+ CHI_heavy_artillery_equipment_0_short:0"德造 B-BTH重型火炮"
+ CHI_heavy_artillery_equipment_1_short:0"德造 K-18重型火炮"
+ CHI_heavy_artillery_equipment_2_short:0"美制Tom-C 重型火炮"
+ CHI_heavy_artillery_equipment_3_short:0"美制Tom-E 重型火炮"
+ 
+ PRC_heavy_artillery_equipment_0_short:0"m1918英式重炮"
+ PRC_heavy_artillery_equipment_1_short:0"边区仿制型 “八九年”重炮"
+ PRC_heavy_artillery_equipment_2_short:0"俄制Br-4重型火炮"
+ PRC_heavy_artillery_equipment_3_short:0"俄制Br-5重型火炮"
+ 

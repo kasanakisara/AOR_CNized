@@ -1,0 +1,45 @@
+﻿l_english:
+
+
+ MONEY_1:0"财政部可用收入"
+ money_1:0"收入明细：\n -总收入：[?money_all|G0]\n §g（总收入 = 金融中心数量×[?money_all_coeff|0]）\n -金融中心数量 = [?num_of_money_maker|0]§!\n\n -补助§Y粮食§!采购的份额：[?money_food|Y0]\n -补助§Y木材§!采购的份额：[?money_Wood|Y0]\n -补助§Y煤炭§!采购的份额：[?money_coal|Y0]\n\n -来自§H现金流§!的投资§G收益§!：[?invest_GDP|0]\n -用于§H支付分期债券§!的§R拨款§!：[?pay_loan|0]\n\n -最终可用收入：§4[?money_available|0]§!"
+ 
+ COST:0"各部委实际支出"
+ cost_gui:0"[cost_gui_loc]"
+ cost:0"支出明细：\n -总支出：[?money_cost_total|Y0]\n\n -用于§Y公务员工资§!的支出：[?salary_budget|Y0]\n -用于§Y对外关系部门§!的支出：[?diplomac_budget|Y0]\n -用于§Y科研机构§!的支出：[?research_budget|Y0]"
+ cost_puppet:0"支出明细：\n -总支出：[?money_cost_total|Y0]\n\n -用于§Y公务员工资§!的支出：[?salary_budget|Y0]\n -用于§Y对外关系部门§!的支出：[?diplomac_budget|Y0]\n -用于§Y科研机构§!的支出：[?research_budget|Y0]\n -输送给§Y宗主国§!的部分：§R300§!"
+ 
+ REMAINDER:0"财政盈余"
+ 
+ remainder:0"[remainder_gui_loc]"
+ remainder_free:0"当前的财政盈余为：[?money_surplus|+0]\n -总财政盈余=国内财政盈余+倾销收入\n\n§g  -国内财政盈余§!§H（§![?domin_money_surplus|+0]§H）§!§g=可用收入-各部委支出§!\n§g  -当前倾销收入为：§!§7[?dump_benefit]§!\n\n-§7倾销§!是一种§Y外交行动§!，可以对满足条件的附庸发起，获得额外的收益\n每对一个国家展开倾销，可获得§4[?dump_benefit_coeff|0]§!资金。"
+ 
+ remainder_puppet:0"当前的财政盈余为：[?money_surplus|+0]\n§g 财政盈余§!§H（§![?money_surplus|+0]§H）§!§g=可用收入-各部委支出§!"
+ 
+ MIL_BUDGET:0 "划拨给武装力量的军费"
+ mil_budget:0 "划拨给武装力量的总军费：[?mil_bud|Y0] \n其中：\n -陆军军费：§7[?land_cost|0]§! \n -空军军费：§9[?airforce_cost|0]§! \n -海军军费：§4[?naval_cost|0]§!"
+ 
+ econ_bankrupt_mod:0"§W入不敷出的财政§!"
+ econ_bankrupt_mod_desc:0"当前的财政属于赤字状态，赤字率越高，影响越严重§9（投降界限影响下限为-30%）§!"
+ 
+ budget_toomore_DEBUFF:0"厌战情绪蔓延"
+ budget_toomore_DEBUFF_desc:0"由于军费开支过高，财政收入的盈余部分已经完全不够填补军费开支，这个国家的民众已经逐渐开始反对穷兵黩武的政策。"
+ 
+ 
+ 
+ 
+ add_money_category:0"经济发展"
+ 
+ add_money_1:0"市场小规模开发"
+ give_back_money_1_tip:0"返还50流动资金"
+ decision_add_money_1_tip:0"消耗100流动资金"
+ 
+ add_money_2:0"市场中规模开发"
+ give_back_money_2_tip:0"返还200流动资金"
+ decision_add_money_2_tip:0"消耗300流动资金"
+ 
+ add_money_3:0"市场大规模开发"
+ give_back_money_3_tip:0"返还400流动资金"
+ decision_add_money_3_tip:0"消耗500流动资金"
+
+ 

@@ -1,0 +1,72 @@
+﻿l_english:
+ rubber_storage:0"橡胶仓库"
+ steel_storage:0"钢铁仓库"
+ chromium_storage:0"铬矿石仓库"
+ tungsten_storage:0"钨矿石仓库"
+ aluminium_storage:0"铝矿石仓库"
+ rubber_storage_plural:0"橡胶仓库"
+ steel_storage_plural:0"钢铁仓库"
+ chromium_storage_plural:0"铬矿石仓库"
+ tungsten_storage_plural:0"钨矿石仓库"
+ aluminium_storage_plural:0"铝矿石仓库"
+ rubber_storage_desc:0" -增加§H800§!单位的橡胶库存上限\n -提供§H8§!单位的橡胶储备输出能力"
+ steel_storage_desc:0" -增加§H800§!单位的钢铁库存上限\n -提供§H8§!单位的钢铁储备输出能力"
+ chromium_storage_desc:0" -增加§H800§!单位的铬矿石库存上限\n -提供§H8§!单位的铬矿石储备输出能力"
+ tungsten_storage_desc:0" -增加§H800§!单位的钨矿石库存上限\n -提供§H8§!单位的钨矿石储备输出能力"
+ aluminium_storage_desc:0" -增加§H800§!单位的铝矿石库存上限\n -提供§H8§!单位的铝矿石储备输出能力"
+ 
+ rubber_stroage_put_out:0"调用橡胶库存储备"
+ aluminium_stroage_put_out:0"调用铝矿石库存储备"
+ chromium_stroage_put_out:0"调用铬矿石库存储备"
+ tungsten_stroage_put_out:0"调用钨矿石库存储备"
+ steel_stroage_put_out:0"调用钢铁库存储备"
+ food_stroage_put_out:0"调用粮食库存储备"
+ wood_stroage_put_out:0"调用木材库存储备"
+ coal_stroage_put_out:0"调用煤炭库存储备"
+ 
+ rubber_num_desc_1:0"§H储备:§![?left_rubber|0]"
+ aluminium_num_desc_1:0"§H储备:§![?left_aluminium|0]"
+ chromium_num_desc_1:0"§H储备:§![?left_chromium|0]"
+ tungsten_num_desc_1:0"§H储备:§![?left_tungsten|0]"
+ steel_num_desc_1:0"§H储备:§![?left_steel|0]"
+ food_num_desc_1:0"§H储备:§![?left_food|0]"
+ wood_num_desc_1:0"§H储备:§![?left_wood|0]"
+ coal_num_desc_1:0"§H储备:§![?left_coal|0]"
+ 
+ rubber_num_desc_k:0"§H储备:§![?left_rubber|*0]"
+ aluminium_num_desc_k:0"§H储备:§![?left_aluminium|*0]"
+ chromium_num_desc_k:0"§H储备:§![?left_chromium|*0]"
+ tungsten_num_desc_k:0"§H储备:§![?left_tungsten|*0]"
+ steel_num_desc_k:0"§H储备:§![?left_steel|*0]"
+ food_num_desc_k:0"§H储备:§![?left_food|*0]"
+ wood_num_desc_k:0"§H储备:§![?left_wood|*0]"
+ coal_num_desc_k:0"§H储备:§![?left_coal|*0]"
+ 
+ left_rubber_text:0"§M橡胶战略储备明细§!"
+ left_rubber_desc:0"当前储备总量：[?left_rubber|0]\n（上限：[?rubber_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?rubber_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?rubber_storage_use|R0]\n今日入库数量：[?daily_left_rubber|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_aluminium_text:0"§M铝矿石战略储备明细§!"
+ left_aluminium_desc:0"当前储备总量：[?left_aluminium|0]\n（上限：[?aluminium_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?aluminium_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?aluminium_storage_use|R0]\n今日入库数量：[?daily_left_aluminium|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_chromium_text:0"§M铬矿石战略储备明细§!"
+ left_chromium_desc:0"当前储备总量：[?left_chromium|0]\n（上限：[?chromium_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?chromium_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?chromium_storage_use|R0]\n今日入库数量：[?daily_left_chromium|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_tungsten_text:0"§M钨矿石战略储备明细§!"
+ left_tungsten_desc:0"当前储备总量：[?left_tungsten|0]\n（上限：[?tungsten_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?tungsten_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?tungsten_storage_use|R0]\n今日入库数量：[?daily_left_tungsten|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_steel_text:0"§M钢铁战略储备明细§!"
+ left_steel_desc:0"当前储备总量：[?left_steel|0]\n（上限：[?steel_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?steel_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?steel_storage_use|R0]\n今日入库数量：[?daily_left_steel|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_food_text:0"§M粮食战略储备明细§!"
+ left_food_desc:0"当前储备总量：[?left_food|0]\n（上限：[?food_cap|0]  = 仓库数量×800）\n每日输出储备能力：[?food_speed|H0]§g（仓库数量×8）§!\n今日出库数量：[?food_storage_use|R0]\n今日入库数量：[?daily_left_food|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_wood_text:0"§M木材战略储备明细§!"
+ left_wood_desc:0"当前储备总量：[?left_wood|0]\n（上限：[?wood_cap|0]  = 民用工厂数量×800）\n每日输出储备能力：[?wood_speed|H0]§g（民用工厂数量×8）§!\n今日出库数量：[?wood_storage_use|R0]\n今日入库数量：[?daily_left_wood|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+ 
+ left_coal_text:0"§M煤炭战略储备明细§!"
+ left_coal_desc:0"当前储备总量：[?left_coal|0]\n（上限：[?coal_cap|0]  = (兵工厂+造船厂)×800）\n每日输出储备能力：[?coal_speed|H0]§g（(兵工厂+造船厂)×8）§!\n今日出库数量：[?coal_storage_use|R0]\n今日入库数量：[?daily_left_coal|G0]\n§g------------§!\n§g当储备总量大于输出上限时，就会自动开始输出，\n若资源本来就有盈余时，出库资源则会重新入库。§!"
+
+ 
+ 
+ 
+

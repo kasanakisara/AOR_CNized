@@ -1,0 +1,416 @@
+﻿l_english:
+
+ FLEW_MONEY:0"当前可使用的流动资金\n §g流动资金可用于进行短期项目资助，也可用于购买军火\n 每日流动资金的收入为：§![?daily_flow_cash|2]§g§! "
+ 
+ flew_money:0"[flew_money_loc]"
+ flew_money_free:0"注：每日流动资金收入的计算规则为：\n §H国内金融繁荣度§! + §G军火倾销收益§!\n 国内金融繁荣度的衡量方式为：\n  §g（金融中心数目 × 金融开放度修正）÷ 50§!\n 目前国内的金融中心数量 = [?num_of_money_maker|H0] \n 目前的金融开放度修正 = [?coef_daily_flow_cash|H1]\n 目前的倾销收益 = §7[?daily_flow_cash_import|1]§!\n 每份对附庸国的倾销外交行动提供§71.5§!的收益\n\n §4每日获得的流动资金，最小值为0.5，最大值为25§!\n------------\n§g另外还可以通过售卖债券、出售军火的方式，§!§Y一次性§!§g获得若干流动资金。§!"
+ flew_money_puppet:0"注：每日流动资金收入的计算规则为：\n （金融中心数目 × 金融开放度修正）÷ 50\n 目前国内的金融中心数量 = [?num_of_money_maker|H0] \n 目前的金融开放度修正 = [?coef_daily_flow_cash|H1]\n\n §4每日获得的流动资金，最小值为0.5，最大值为25§!\n------------\n§g另外还可以通过售卖债券、出售军火的方式，§!§Y一次性§!§g获得若干流动资金。§!"
+ 
+ 
+ loan_category:0"售卖国家证券"
+ decision_loan_100_3:0"发售100的3月期债券"
+ decision_loan_100_6:0"发售100的6月期债券"
+ decision_loan_300_3:0"发售300的3月期债券"
+ decision_loan_300_6:0"发售300的6月期债券"
+ decision_loan_500_3:0"发售500的3月期债券"
+ decision_loan_500_6:0"发售500的6月期债券"
+ 
+ decision_loan_100_3_desc:0"发行这种债券会在接下来的3个月持续占用150财政收益进行债券偿付"
+ decision_loan_100_6_desc:0"发行这种债券会在接下来的6个月持续占用60财政收益进行债券偿付"
+ decision_loan_300_3_desc:0"发行这种债券会在接下来的3个月持续占用500财政收益进行债券偿付"
+ decision_loan_300_6_desc:0"发行这种债券会在接下来的6个月持续占用200财政收益进行债券偿付"
+ decision_loan_500_3_desc:0"发行这种债券会在接下来的3个月持续占用1000财政收益进行债券偿付"
+ decision_loan_500_6_desc:0"发行这种债券会在接下来的6个月持续占用500财政收益进行债券偿付"
+ 
+ decision_loan_100_3_tip:0"立刻增加§G100§!流动资金，但会在接下来的§H3个月§!持续占用§R150§!财政收益进行债券偿付，偿付时间会"
+ decision_loan_100_6_tip:0"立刻增加§G100§!流动资金，但会在接下来的§H6个月§!持续占用§R60§!财政收益进行债券偿付，偿付时间会"
+ decision_loan_300_3_tip:0"立刻增加§G300§!流动资金，但会在接下来的§H3个月§!持续占用§R500§!财政收益进行债券偿付，偿付时间会"
+ decision_loan_300_6_tip:0"立刻增加§G300§!流动资金，但会在接下来的§H6个月§!持续占用§R200§!财政收益进行债券偿付，偿付时间会"
+ decision_loan_500_3_tip:0"立刻增加§G500§!流动资金，但会在接下来的§H3个月§!持续占用§R1000§!财政收益进行债券偿付，偿付时间会"
+ decision_loan_500_6_tip:0"立刻增加§G500§!流动资金，但会在接下来的§H6个月§!持续占用§R500§!财政收益进行债券偿付，偿付时间会"
+ 
+ loan_100_trigger:0"已偿清上一期100的债券"
+ loan_300_trigger:0"已偿清上一期300的债券"
+ loan_500_trigger:0"已偿清上一期500的债券"
+ 
+ has_50_flow_cash:0"拥有至少50 的流动资金"
+ has_100_flow_cash:0"拥有至少100 的流动资金"
+ has_150_flow_cash:0"拥有至少150 的流动资金"
+ has_200_flow_cash:0"拥有至少200 的流动资金"
+ has_250_flow_cash:0"拥有至少250 的流动资金"
+ has_300_flow_cash:0"拥有至少300 的流动资金"
+ has_350_flow_cash:0"拥有至少350 的流动资金"
+ has_400_flow_cash:0"拥有至少400 的流动资金"
+ has_450_flow_cash:0"拥有至少450 的流动资金"
+ has_500_flow_cash:0"拥有至少500 的流动资金"
+ has_600_flow_cash:0"拥有至少600 的流动资金"
+ 
+ 
+ investment_departmant_category:0"进行短期拨款"
+ investment_research_departmant:0"为科研机构提供特别拨款"
+ investment_research_departmant_tip:0"扣除300 的流动资金"
+ investment_industry_departmant:0"为兵工厂提供特别拨款"
+ investment_industry_departmant_tip:0"扣除300 的流动资金"
+ investment_construct_departmant:0"为建设部提供特别拨款"
+ investment_construct_departmant_tip:0"扣除300 的流动资金"
+ investment_consumer_departmant:0"为全国人民发放特别津贴"
+ investment_consumer_departmant_tip:0"扣除300 的流动资金"
+ investment_properganda_departmant:0"为宣传部门提供特别拨款"
+ investment_properganda_departmant_tip:0"扣除300 的流动资金"
+ decision_invest_GDP_100:0"投资100的实体经济"
+ decision_invest_GDP_300:0"投资300的实体经济"
+ decision_invest_GDP_500:0"投资500的实体经济"
+ decision_invest_GDP_100_desc:0"在激活期间，会提高100国内的经济总产出"
+ decision_invest_GDP_300_desc:0"在激活期间，会提高300国内的经济总产出"
+ decision_invest_GDP_500_desc:0"在激活期间，会提高500国内的经济总产出"
+ decision_invest_GDP_100_tip:0"立刻扣除§R100§!流动资金，但会在接下来的§H45天§!内使得我国的经济总产出额外提升§G100§!，提升时间会"
+ decision_invest_GDP_300_tip:0"立刻扣除§R300§!流动资金，但会在接下来的§H45天§!内使得我国的经济总产出额外提升§G300§!，提升时间会"
+ decision_invest_GDP_500_tip:0"立刻扣除§R500§!流动资金，但会在接下来的§H45天§!内使得我国的经济总产出额外提升§G500§!，提升时间会"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pay_100_3:0"偿付100型债券（3月期）"
+ pay_100_6:0"偿付100型债券（6月期）"
+ pay_300_3:0"偿付300型债券（3月期）"
+ pay_300_6:0"偿付300型债券（6月期）"
+ pay_500_3:0"偿付500型债券（3月期）"
+ pay_500_6:0"偿付500型债券（6月期）"
+ pay_100_3_desc:0"偿付这批债券正占用着150的财政收益"
+ pay_100_6_desc:0"偿付这批债券正占用着60的财政收益"
+ pay_300_3_desc:0"偿付这批债券正占用着500的财政收益"
+ pay_300_6_desc:0"偿付这批债券正占用着200的财政收益"
+ pay_500_3_desc:0"偿付这批债券正占用着1000的财政收益"
+ pay_500_6_desc:0"偿付这批债券正占用着500的财政收益"
+ 
+ investment_research:0"对科研的短期资助"
+ investment_research_flag:0"科研机构正享受着短期资助"
+ investment_industry:0"对生产的短期资助"
+ investment_industry_flag:0"军工企业正享受着短期资助"
+ investment_construct:0"对建设部的短期资助"
+ investment_construct_flag:0"建设部正享受着短期资助"
+ investment_consumer:0"国民的特别津贴"
+ investment_consumer_flag:0"全国人民正享受着特别津贴"
+ investment_properganda:0"对宣传部的短期资助"
+ investment_properganda_flag:0"宣传部正享受着短期资助"
+ 
+ 
+ International_trade_sell_category:0"出口武器"
+ 
+ get_into_international_trade:0"进军国际军火市场"
+ we_will_get_into_army_weapon_trade:0"解锁§M售卖军火§!系列决议"
+ 
+ sell_old_infantry_equipment:0"出口步枪"
+ rifles_waits_to_buy:0"我们并未准备出售一批步枪"
+ ready_to_sell_rifle:0"§M准备出口一批步枪§!"
+ 
+ sell_old_mechgun_equipment:0"出口重机枪"
+ mechgun_waits_to_buy:0"我们并未准备出售一批重机枪"
+ ready_to_sell_mechgun:0"§M准备出口一批重机枪§!"
+ 
+ sell_old_artillary_equipment:0"出口野战炮"
+ artillary_waits_to_buy:0"我们并未准备出售一批野战炮"
+ ready_to_sell_artillary:0"§M准备出口一批野战炮§!"
+ 
+ sell_old_tank_equipment:0"出口轻型坦克"
+ tank_waits_to_buy:0"我们并未准备出售一批轻型坦克"
+ ready_to_sell_tank:0"§M准备出口一批轻型坦克§!"
+ 
+ sell_old_fighter_equipment:0"出口战斗机"
+ fighter_waits_to_buy:0"我们并未准备出售一批战斗机"
+ ready_to_sell_fighter:0"§M准备出口一批战斗机§!"
+ 
+ sell_old_CAS_equipment:0"出口俯冲轰炸机"
+ CAS_waits_to_buy:0"我们并未准备出售一批俯冲轰炸机"
+ ready_to_sell_CAS:0"§M准备出口一批俯冲轰炸机§!"
+ 
+ sell_old_motorized_equipment:0"出口运兵卡车"
+ motorized_waits_to_buy:0"我们并未准备出售一批运兵卡车"
+ ready_to_sell_motorized:0"§M准备出口一批运兵卡车§!"
+ 
+ sell_old_destroyer:0"出口驱逐舰"
+ has_2_destroyer:0"至少拥有2艘现役的§Y驱逐舰§!"
+ destroyer_waits_to_buy:0"我们并未准备出口驱逐舰"
+ ready_to_sell_destroyer:0" §R退役§!2艘§Y老式驱逐舰§!，改装一番准备出口"
+ 
+ sell_old_light_cruiser:0"出口轻型巡洋舰"
+ has_1_light_cruiser:0"至少拥有1艘现役的§Y轻型巡洋舰§!"
+ light_cruiser_waits_to_buy:0"我们并未准备出口轻型巡洋舰"
+ ready_to_sell_light_cruiser:0" §R退役§!1艘§Y轻型巡洋舰§!，改装一番准备出口"
+ 
+ sell_old_heavy_cruiser:0"出口重型巡洋舰"
+ has_1_heavy_cruiser:0"至少拥有1艘现役的§Y重型巡洋舰§!"
+ heavy_cruiser_waits_to_buy:0"我们并未准备出口重型巡洋舰"
+ ready_to_sell_heavy_cruiser:0" §R退役§!1艘§Y老式重型巡洋舰§!，改装一番准备出口"
+ 
+ 
+ 
+
+ International_trade_buy_category:0"进口武器"
+ buy_old_infantry_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的步枪"
+ buy_old_infantry_equipment_desc:0"花费50的流动资金，向[From.GetNameDef]购买2500单位的步枪"
+ Boss_dealing_with_other_for_rifle:0"没有其他国家也在申请购买这批步枪"
+ 
+ buy_old_mechgun_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的重机枪"
+ buy_old_mechgun_equipment_desc:0"花费50的流动资金，向[From.GetNameDef]购买300单位的重机枪"
+ Boss_dealing_with_other_for_mechgun:0"没有其他国家也在申请购买这批重机枪"
+ 
+ buy_old_artillary_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的野战炮"
+ buy_old_artillary_equipment_desc:0"花费100的流动资金，向[From.GetNameDef]购买300单位的野战炮"
+ Boss_dealing_with_other_for_artillary:0"没有其他国家也在申请购买这批野战炮"
+ 
+ buy_old_tank_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的轻型坦克"
+ buy_old_tank_equipment_desc:0"花费200的流动资金，向[From.GetNameDef]购买120单位的轻型坦克"
+ Boss_dealing_with_other_for_tank:0"没有其他国家也在申请购买这批轻型坦克"
+ 
+ buy_old_fighter_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的战斗机"
+ buy_old_fighter_equipment_desc:0"花费150的流动资金，向[From.GetNameDef]购买40单位的战斗机"
+ Boss_dealing_with_other_for_fighter:0"没有其他国家也在申请购买这批战斗机"
+ 
+ buy_old_motorized_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的运兵卡车"
+ buy_old_motorized_equipment_desc:0"花费50的流动资金，向[From.GetNameDef]购买200单位的运兵卡车"
+ Boss_dealing_with_other_for_motorized:0"没有其他国家也在申请购买这批运兵卡车"
+ 
+ buy_old_CAS_equipment:0"购买[From.GetFlag][From.GetNameDef]生产的俯冲轰炸机"
+ buy_old_CAS_equipment_desc:0"花费150的流动资金，向[From.GetNameDef]购买40单位的俯冲轰炸机"
+ Boss_dealing_with_other_for_CAS:0"没有其他国家也在申请购买这批俯冲轰炸机"
+ 
+ buy_old_destroyer:0"购买[From.GetFlag][From.GetNameDef]生产的驱逐舰"
+ buy_old_destroyer_desc:0"花费300的流动资金，向[From.GetNameDef]购买2艘驱逐舰"
+ Boss_dealing_with_other_for_destroyer:0"没有其他国家也在申请购买这2艘驱逐舰"
+ 
+ buy_old_light_cruiser:0"购买[From.GetFlag][From.GetNameDef]生产的轻型巡洋舰"
+ buy_old_light_cruiser_desc:0"花费400的流动资金，向[From.GetNameDef]购买1艘轻型巡洋舰"
+ Boss_dealing_with_other_for_light_cruiser:0"没有其他国家也在申请购买这艘轻型巡洋舰"
+ 
+ buy_old_heavy_cruiser:0"购买[From.GetFlag][From.GetNameDef]生产的重型巡洋舰"
+ buy_old_heavy_cruiser_desc:0"花费600的流动资金，向[From.GetNameDef]购买1艘重型巡洋舰"
+ Boss_dealing_with_other_for_heavy_cruiser:0"没有其他国家也在申请购买这艘重型巡洋舰"
+ 
+ 
+ propose_to_buy_weapon_50:0"拨款50 的流动资金,订购这批军火"
+ propose_to_buy_weapon_100:0"拨款100 的流动资金,订购这批军火"
+ propose_to_buy_weapon_150:0"拨款150 的流动资金,订购这批军火"
+ propose_to_buy_weapon_200:0"拨款200 的流动资金,订购这批军火"
+ propose_to_buy_weapon_300_destroyer:0"拨款300 的流动资金,订购这2艘驱逐舰"
+ propose_to_buy_weapon_400_light_cruiser:0"拨款400 的流动资金,订购这艘轻型巡洋舰"
+ propose_to_buy_weapon_600_heavy_cruiser:0"拨款600 的流动资金,订购这艘重型巡洋舰"
+ has_one_naval_base:0"至少控制着一块拥有海军基地的地区"
+ propose_to_buy_weapon_notice:"§M如果对方拒绝,这批资金将被退回§!"
+ 
+ 
+ cash.20.t:0"[From.GetNameDef]希望购买我们的步枪"
+ cash.20.d:0"[From.GetNameDef]的贸易代表团向我们提出购买步枪的申请，如果我们同意了这份合同，我们将获得一笔可观的流动资金。"
+ 
+ cash.20.a:0"这是双赢！"
+ deal_this_tract_50:0"§M收下对方支付的50流动资金，并交割约定的军火§!"
+ 
+ cash.20.b:0"邻居囤粮你囤枪？"
+ 
+ cash.21.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.21.d:0"在我方支付了50€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.21.a:0"我们的力量更强了！"
+ 
+ cash.22.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.22.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.22.a:0"自力更生，丰衣足食"
+ Undeal_this_tract_50:0"§M收下退还的50的流动资金§!"
+ 
+ 
+ cash.30.t:0"[From.GetNameDef]希望购买我们的野战炮"
+ cash.30.d:0"[From.GetNameDef]的贸易代表团向我们提出购买野战炮的申请，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.30.a:0"为了友谊，同意订单！"
+ deal_this_tract_100:0"§M收下对方支付的100流动资金，并交割约定的军火§!"
+ 
+ cash.30.b:0"火炮这类重武器不能卖给你"
+ 
+ cash.31.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.31.d:0"在我方支付了100€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.31.a:0"战争之神已就绪！"
+ 
+ cash.32.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.32.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.32.a:0"没有枪没有炮，敌人给我们造"
+ Undeal_this_tract_50:0"§M收下退还的100的流动资金§!"
+ 
+ 
+ cash.40.t:0"[From.GetNameDef]希望购买我们的轻型坦克"
+ cash.40.d:0"[From.GetNameDef]的贸易代表团向我们提出购买轻型坦克的申请，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.40.a:0"这可是笔大生意啊！"
+ deal_this_tract_200:0"§M收下对方支付的200流动资金，并交割约定的军火§!"
+ 
+ cash.40.b:0"给你坦克我还怎么接着赚钱？"
+ 
+ cash.41.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.41.d:0"在我方支付了200€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.41.a:0"工业时代的骑兵来了！"
+ 
+ cash.42.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.42.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.42.a:0"小小的挫折"
+ Undeal_this_tract_200:0"§M收下退还的200的流动资金§!"
+ 
+ 
+ cash.50.t:0"[From.GetNameDef]希望购买我们的战斗机"
+ cash.50.d:0"[From.GetNameDef]的贸易代表团请求购买我们的战斗机，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.50.a:0"我们将协助他们保卫天空！"
+ deal_this_tract_150:0"§M收下对方支付的150流动资金，并交割约定的军火§!"
+ 
+ cash.50.b:0"战斗机只能出口给核心盟友"
+ 
+ cash.51.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.51.d:0"在我方支付了150€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.51.a:0"用他们保卫天空！"
+ 
+ cash.52.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.52.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.52.a:0"爹有娘有不如自己有"
+ Undeal_this_tract_150:0"§M收下退还的150的流动资金§!"
+ 
+ 
+ 
+ cash.60.t:0"[From.GetNameDef]希望购买我们的运兵卡车"
+ cash.60.d:0"[From.GetNameDef]的贸易代表团请求购买一些运兵卡车，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.60.a:0"互惠共赢！"
+ 
+ cash.60.b:0"他们肯定是想组建装甲力量"
+ 
+ cash.61.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.61.d:0"在我方支付了50€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.61.a:0"看来还真是造不如买！"
+ 
+ cash.62.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.62.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.62.a:0"暂时的困难阻止不了我们"
+ 
+ 
+ 
+ 
+ cash.70.t:0"[From.GetNameDef]希望购买我们的俯冲轰炸机"
+ cash.70.d:0"[From.GetNameDef]的贸易代表团请求购买一批俯冲轰炸机，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.70.a:0"协助他们打造强大的空军！"
+ 
+ cash.70.b:0"俯冲轰炸机只能出口给核心盟友"
+ 
+ cash.71.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.71.d:0"在我方支付了150€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.71.a:0"用他们武装天空！"
+ 
+ cash.72.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.72.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.72.a:0"有陆军也一样不是么？"
+ 
+ 
+ 
+ 
+ cash.80.t:0"[From.GetNameDef]希望购买2艘驱逐舰"
+ cash.80.d:0"[From.GetNameDef]的贸易代表团向我们提出购买2艘轻型驱逐舰的申请，如果我们同意了这份合同，我们将获得一笔可观的流动资金。"
+ 
+ cash.80.a:0"我们将帮助他们建立海军！"
+ deal_this_tract_300_destroyer:0"§M收下对方支付的300流动资金，并交付2艘驱逐舰§!"
+ 
+ cash.80.b:0"还是缓缓吧"
+ 
+ cash.81.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.81.d:0"在我方支付了300€的流动资金后，[From.GetNameDef]将合同约定的驱逐舰交付给了我们。"
+ 
+ cash.81.a:0"啊，海军！"
+ Destroyer_arrival:0"§M2艘驱逐舰交付了§!"
+ 
+ cash.82.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.82.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这2艘驱逐舰。"
+ 
+ cash.82.a:0"封锁吧，封锁个十年八年的问题就解决了"
+ Undeal_this_tract_300:0"§M收下退还的300的流动资金§!"
+ 
+ 
+ 
+ 
+ cash.90.t:0"[From.GetNameDef]希望购买轻型巡洋舰"
+ cash.90.d:0"[From.GetNameDef]的贸易代表团向我们提出购买一艘轻型巡洋舰的申请，如果我们同意了这份合同，我们将获得一笔可观的流动资金。"
+ 
+ cash.90.a:0"我们将帮助他们壮大海军！"
+ deal_this_tract_400_light_cruiser:0"§M收下对方支付的400流动资金，并交付一艘轻型巡洋舰§!"
+ 
+ cash.90.b:0"国之重器，不可予人"
+ 
+ cash.91.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.91.d:0"在我方支付了400€的流动资金后，[From.GetNameDef]将合同约定的轻型巡洋舰交付了我们。"
+ 
+ cash.91.a:0"更强的海军！"
+ light_cruiser_arrival:0"§M一艘轻型巡洋舰交付了§!"
+ 
+ cash.92.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.92.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这艘轻型巡洋舰。"
+ 
+ cash.92.a:0"是你逼我走上独立自主的道路的"
+ Undeal_this_tract_400:0"§M收下退还的400的流动资金§!"
+ 
+ 
+ 
+ cash.100.t:0"[From.GetNameDef]希望购买重型巡洋舰"
+ cash.100.d:0"[From.GetNameDef]的贸易代表团向我们提出购买一艘重型巡洋舰的申请，如果我们同意了这份合同，我们将获得一笔可观的流动资金。"
+ 
+ cash.100.a:0"我们将帮助他们走向远洋！"
+ deal_this_tract_600_heavy_cruiser:0"§M收下对方支付的600流动资金，并交付一艘重型巡洋舰§!"
+ 
+ cash.100.b:0"海洋不容分享"
+ 
+ cash.101.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.101.d:0"在我方支付了600€的流动资金后，[From.GetNameDef]将合同约定的重型巡洋舰交付了我们。"
+ 
+ cash.101.a:0"我们的目标是星辰大海！"
+ heavy_cruiser_arrival:0"§M一艘重型巡洋舰交付了§!"
+ 
+ cash.102.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.102.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这艘重型巡洋舰。"
+ 
+ cash.102.a:0"你挡不住我们的海洋之梦"
+ Undeal_this_tract_600:0"§M收下退还的600的流动资金§!"
+ 
+ 
+ cash.110.t:0"[From.GetNameDef]希望购买我们的重机枪"
+ cash.110.d:0"[From.GetNameDef]的贸易代表团请求购买一批重机枪，如果我们同意了该申请，我们将获得一笔可观的流动资金。"
+ 
+ cash.110.a:0"明智的提议！"
+ 
+ cash.110.b:0"我们有更适合出口的对象"
+ 
+ cash.111.t:0"[From.GetNameDef]同意了我方的申请"
+ cash.111.d:0"在我方支付了50€的流动资金后，[From.GetNameDef]将合同约定的军火交割给了我们。"
+ 
+ cash.111.a:0"给我们的连队分发下去！"
+ 
+ cash.112.t:0"[From.GetNameDef]拒绝了我方的申请"
+ cash.112.d:0"[From.GetNameDef]的领导人[From.GetNameDef]表示，考虑到打破区域军事平衡的可能性，暂时不考虑出售给我们这批军火。"
+ 
+ cash.112.a:0"那就靠缴获吧，我们总能弄到的"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
